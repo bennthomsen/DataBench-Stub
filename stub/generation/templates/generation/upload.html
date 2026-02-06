@@ -1,0 +1,108 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}Upload Generation Data - Stub{% endblock %}
+
+{% block content %}
+{% include "core/includes/upload_spinner_modal.html" with upload_spinner_message="Uploading and processing generation data..." %}
+
+<div class="row">
+    <div class="col-12">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="{% url 'core:home' %}">Home</a></li>
+                <li class="breadcrumb-item"><a href="{% url 'generation:file_list' %}">Generation Data</a></li>
+                <li class="breadcrumb-item active">Upload</li>
+            </ol>
+        </nav>
+        
+        <h1 class="mb-4">
+            <i class="fas fa-upload me-2"></i>Upload Electricity Generation Data
+        </h1>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-8">
+        <div class="card">
+            <div class="card-header">
+                <h3>
+                    <i class="fas fa-file-upload"></i>
+                    Select File
+                </h3>
+            </div>
+            <div class="card-body">
+                <form method="post" enctype="multipart/form-data" class="upload-form">
+                    {% csrf_token %}
+                    
+                    <div class="mb-3">
+                        <label for="id_name" class="form-label">Name *</label>
+                        {{ form.name }}
+                        {% if form.name.errors %}
+                        <div class="text-danger">{{ form.name.errors }}</div>
+                        {% endif %}
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="id_description" class="form-label">Description</label>
+                        {{ form.description }}
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="id_data_file" class="form-label">Data File (JSON) *</label>
+                        {{ form.data_file }}
+                        {% if form.data_file.errors %}
+                        <div class="text-danger">{{ form.data_file.errors }}</div>
+                        {% endif %}
+                        <div class="form-text">Upload a JSON file containing UK electricity generation data.</div>
+                    </div>
+                    
+                    <div class="d-flex gap-2">
+                        <button type="submit" class="btn btn-primary">
+                            <i class="fas fa-upload me-2"></i>Upload
+                        </button>
+                        <a href="{% url 'generation:file_list' %}" class="btn btn-outline-secondary">
+                            Cancel
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-lg-4">
+        <div class="card">
+            <div class="card-header">
+                <h3>
+                    <i class="fas fa-info-circle"></i>
+                    Expected Format
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>Upload a JSON file with the following structure:</p>
+                <pre class="bg-light p-3 rounded" style="font-size: 0.75rem;"><code>{
+  "data": [
+    {
+      "startTime": "2025-01-01T00:00:00Z",
+      "settlementPeriod": 1,
+      "data": [
+        {
+          "businessType": "Production",
+          "psrType": "Biomass",
+          "quantity": 1716
+        },
+        ...
+      ]
+    },
+    ...
+  ]
+}</code></pre>
+                <p class="text-muted small mt-2">
+                    Each entry contains readings for various power source types (PSR types) 
+                    including Biomass, Fossil Gas, Nuclear, Solar, Wind Offshore, Wind Onshore, etc.
+                </p>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

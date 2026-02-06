@@ -1,0 +1,1 @@
+"""Generation app for Stub - handles UK electricity generation data upload and visualization."""

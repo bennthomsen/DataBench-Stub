@@ -1,0 +1,37 @@
+{% extends "base.html" %}
+
+{% block title %}Delete {{ data_file.name }} - Stub{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-md-6 offset-md-3">
+        <div class="card">
+            <div class="card-header bg-danger text-white">
+                <h3>
+                    <i class="fas fa-exclamation-triangle"></i>
+                    Confirm Deletion
+                </h3>
+            </div>
+            <div class="card-body">
+                <p>Are you sure you want to delete <strong>{{ data_file.name }}</strong>?</p>
+                <p class="text-muted">
+                    This will permanently delete the file and all {{ data_file.readings.count }} 
+                    associated readings. This action cannot be undone.
+                </p>
+                
+                <form method="post">
+                    {% csrf_token %}
+                    <div class="d-flex gap-2">
+                        <button type="submit" class="btn btn-danger">
+                            <i class="fas fa-trash me-2"></i>Delete
+                        </button>
+                        <a href="{% url 'generation:file_list' %}" class="btn btn-outline-secondary">
+                            Cancel
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

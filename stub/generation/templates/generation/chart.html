@@ -1,0 +1,181 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}{{ data_file.name }} - Generation Chart - Stub{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="{% url 'core:home' %}">Home</a></li>
+                <li class="breadcrumb-item"><a href="{% url 'generation:file_list' %}">Generation Data</a></li>
+                <li class="breadcrumb-item active">{{ data_file.name }}</li>
+            </ol>
+        </nav>
+        
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1>
+                <i class="fas fa-chart-area me-2"></i>{{ data_file.name }}
+            </h1>
+            <div>
+                <a href="{% url 'generation:file_list' %}" class="btn btn-outline-secondary">
+                    <i class="fas fa-arrow-left me-2"></i>Back to Files
+                </a>
+                <a href="{% url 'generation:delete' data_file.id %}" class="btn btn-outline-danger ms-2">
+                    <i class="fas fa-trash me-2"></i>Delete
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Statistics Cards -->
+<div class="row mb-4">
+    <div class="col-md-3">
+        <div class="card text-center">
+            <div class="card-body py-3">
+                <h4 class="text-primary mb-0">{{ stats.num_days }}</h4>
+                <small class="text-muted">Days of Data</small>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card text-center">
+            <div class="card-body py-3">
+                <h4 class="text-primary mb-0">{{ stats.total_readings|floatformat:0 }}</h4>
+                <small class="text-muted">Total Readings</small>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card text-center">
+            <div class="card-body py-3">
+                <h4 class="text-primary mb-0">{{ stats.source_stats|length }}</h4>
+                <small class="text-muted">Power Sources</small>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3">
+        <div class="card text-center">
+            <div class="card-body py-3">
+                <h6 class="text-primary mb-0">{{ stats.date_range }}</h6>
+                <small class="text-muted">Date Range</small>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Chart -->
+<div class="row mb-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h3>
+                    <i class="fas fa-chart-area"></i>
+                    UK Electricity Generation Mix
+                </h3>
+            </div>
+            <div class="card-body">
+                <div id="chart-container" style="width: 100%; height: 500px;"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Generation Mix by Source -->
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h3>
+                    <i class="fas fa-list-alt"></i>
+                    Generation by Source (Total for Period)
+                </h3>
+            </div>
+            <div class="card-body">
+                <div class="table-responsive">
+                    <table class="table table-hover">
+                        <thead>
+                            <tr>
+                                <th>Source</th>
+                                <th>Total Generation (MW)</th>
+                                <th>Share</th>
+                                <th>Contribution</th>
+                            </tr>
+                        </thead>
+                        <tbody>
+                            {% for source in stats.source_stats %}
+                            <tr>
+                                <td>
+                                    <span class="badge me-2" style="background-color: {{ source.color }};">&nbsp;</span>
+                                    {{ source.psr_type }}
+                                </td>
+                                <td>{{ source.total|floatformat:0 }}</td>
+                                <td>{{ source.percentage|floatformat:1 }}%</td>
+                                <td>
+                                    <div class="progress" style="height: 20px; min-width: 200px;">
+                                        <div class="progress-bar" role="progressbar" 
+                                             style="width: {{ source.percentage }}%; background-color: {{ source.color }};"
+                                             aria-valuenow="{{ source.percentage }}" 
+                                             aria-valuemin="0" 
+                                             aria-valuemax="100">
+                                        </div>
+                                    </div>
+                                </td>
+                            </tr>
+                            {% endfor %}
+                        </tbody>
+                    </table>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- File Info -->
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h3>
+                    <i class="fas fa-info-circle"></i>
+                    File Information
+                </h3>
+            </div>
+            <div class="card-body">
+                <dl class="row mb-0">
+                    <dt class="col-sm-3">File Name</dt>
+                    <dd class="col-sm-9">{{ data_file.name }}</dd>
+                    
+                    <dt class="col-sm-3">Description</dt>
+                    <dd class="col-sm-9">{{ data_file.description|default:"No description provided" }}</dd>
+                    
+                    <dt class="col-sm-3">Uploaded</dt>
+                    <dd class="col-sm-9">{{ data_file.uploaded_at|date:"F d, Y H:i" }}</dd>
+                </dl>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<!-- Plotly.js CDN -->
+<script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Parse the plot data from Django
+    var plotData = {{ plot_json|safe }};
+    
+    // Render the plot
+    Plotly.newPlot('chart-container', plotData.data, plotData.layout, {
+        responsive: true,
+        displayModeBar: true,
+        modeBarButtonsToRemove: ['lasso2d', 'select2d'],
+        displaylogo: false
+    });
+});
+</script>
+{% endblock %}

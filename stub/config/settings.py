@@ -31,6 +31,7 @@ INSTALLED_APPS = [
     # Stub apps
     "stub.core",
     "stub.temperature",
+    "stub.generation",
 ]
 
 MIDDLEWARE = [

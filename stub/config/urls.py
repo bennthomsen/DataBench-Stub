@@ -10,6 +10,7 @@ from django.conf.urls.static import static
 urlpatterns = [
     path("", include("stub.core.urls")),
     path("temperature/", include("stub.temperature.urls")),
+    path("generation/", include("stub.generation.urls")),
     path("admin/", admin.site.urls),
 ]
 
