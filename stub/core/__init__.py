@@ -1,0 +1,1 @@
+"""Core app for Stub - provides home page and base functionality."""

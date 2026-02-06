@@ -1,0 +1,2929 @@
+{
+  "metadata": {
+    "datasets": [
+      "TEMP"
+    ]
+  },
+  "data": [
+    {
+      "measurementDate": "2025-12-31",
+      "publishTime": "2025-12-31T16:45:00Z",
+      "temperature": 2.7,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 9,
+      "temperatureReferenceLow": 1.6
+    },
+    {
+      "measurementDate": "2025-12-30",
+      "publishTime": "2025-12-30T16:45:00Z",
+      "temperature": 4.7,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 9,
+      "temperatureReferenceLow": 1.7
+    },
+    {
+      "measurementDate": "2025-12-29",
+      "publishTime": "2025-12-29T16:45:00Z",
+      "temperature": 5.2,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 9,
+      "temperatureReferenceLow": 1.7
+    },
+    {
+      "measurementDate": "2025-12-28",
+      "publishTime": "2025-12-28T16:45:00Z",
+      "temperature": 5.4,
+      "temperatureReferenceAverage": 6.2,
+      "temperatureReferenceHigh": 9.1,
+      "temperatureReferenceLow": 1.7
+    },
+    {
+      "measurementDate": "2025-12-27",
+      "publishTime": "2025-12-27T16:45:00Z",
+      "temperature": 4.6,
+      "temperatureReferenceAverage": 6.2,
+      "temperatureReferenceHigh": 9.1,
+      "temperatureReferenceLow": 1.8
+    },
+    {
+      "measurementDate": "2025-12-26",
+      "publishTime": "2025-12-26T16:45:00Z",
+      "temperature": 4.6,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 9.1,
+      "temperatureReferenceLow": 1.9
+    },
+    {
+      "measurementDate": "2025-12-25",
+      "publishTime": "2025-12-25T16:45:00Z",
+      "temperature": 5.4,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 9.1,
+      "temperatureReferenceLow": 1.9
+    },
+    {
+      "measurementDate": "2025-12-24",
+      "publishTime": "2025-12-24T16:45:00Z",
+      "temperature": 6.5,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 9.1,
+      "temperatureReferenceLow": 2
+    },
+    {
+      "measurementDate": "2025-12-23",
+      "publishTime": "2025-12-23T16:45:00Z",
+      "temperature": 8,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 9.2,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-12-22",
+      "publishTime": "2025-12-22T16:45:00Z",
+      "temperature": 8.7,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 9.2,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-12-21",
+      "publishTime": "2025-12-21T16:45:00Z",
+      "temperature": 8,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 9.2,
+      "temperatureReferenceLow": 2.2
+    },
+    {
+      "measurementDate": "2025-12-20",
+      "publishTime": "2025-12-20T16:45:00Z",
+      "temperature": 7.2,
+      "temperatureReferenceAverage": 6,
+      "temperatureReferenceHigh": 9.2,
+      "temperatureReferenceLow": 2.3
+    },
+    {
+      "measurementDate": "2025-12-19",
+      "publishTime": "2025-12-19T16:45:00Z",
+      "temperature": 8.5,
+      "temperatureReferenceAverage": 6,
+      "temperatureReferenceHigh": 9.2,
+      "temperatureReferenceLow": 2.3
+    },
+    {
+      "measurementDate": "2025-12-18",
+      "publishTime": "2025-12-18T16:45:00Z",
+      "temperature": 8.4,
+      "temperatureReferenceAverage": 6,
+      "temperatureReferenceHigh": 9.2,
+      "temperatureReferenceLow": 2.4
+    },
+    {
+      "measurementDate": "2025-12-17",
+      "publishTime": "2025-12-17T16:45:00Z",
+      "temperature": 7.3,
+      "temperatureReferenceAverage": 6,
+      "temperatureReferenceHigh": 9.2,
+      "temperatureReferenceLow": 2.4
+    },
+    {
+      "measurementDate": "2025-12-16",
+      "publishTime": "2025-12-16T16:45:00Z",
+      "temperature": 8.4,
+      "temperatureReferenceAverage": 6,
+      "temperatureReferenceHigh": 9.2,
+      "temperatureReferenceLow": 2.5
+    },
+    {
+      "measurementDate": "2025-12-15",
+      "publishTime": "2025-12-15T16:45:00Z",
+      "temperature": 9.3,
+      "temperatureReferenceAverage": 6,
+      "temperatureReferenceHigh": 9.3,
+      "temperatureReferenceLow": 2.6
+    },
+    {
+      "measurementDate": "2025-12-14",
+      "publishTime": "2025-12-14T16:45:00Z",
+      "temperature": 9,
+      "temperatureReferenceAverage": 6,
+      "temperatureReferenceHigh": 9.3,
+      "temperatureReferenceLow": 2.6
+    },
+    {
+      "measurementDate": "2025-12-13",
+      "publishTime": "2025-12-14T03:53:00Z",
+      "temperature": 8,
+      "temperatureReferenceAverage": 6,
+      "temperatureReferenceHigh": 9.3,
+      "temperatureReferenceLow": 2.7
+    },
+    {
+      "measurementDate": "2025-12-12",
+      "publishTime": "2025-12-12T16:45:00Z",
+      "temperature": 10,
+      "temperatureReferenceAverage": 6,
+      "temperatureReferenceHigh": 9.3,
+      "temperatureReferenceLow": 2.7
+    },
+    {
+      "measurementDate": "2025-12-11",
+      "publishTime": "2025-12-11T16:45:00Z",
+      "temperature": 10.6,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 9.4,
+      "temperatureReferenceLow": 2.8
+    },
+    {
+      "measurementDate": "2025-12-10",
+      "publishTime": "2025-12-10T16:45:00Z",
+      "temperature": 11.4,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 9.4,
+      "temperatureReferenceLow": 2.9
+    },
+    {
+      "measurementDate": "2025-12-09",
+      "publishTime": "2025-12-09T16:45:00Z",
+      "temperature": 11.6,
+      "temperatureReferenceAverage": 6.2,
+      "temperatureReferenceHigh": 9.4,
+      "temperatureReferenceLow": 2.9
+    },
+    {
+      "measurementDate": "2025-12-08",
+      "publishTime": "2025-12-08T16:45:00Z",
+      "temperature": 10.5,
+      "temperatureReferenceAverage": 6.2,
+      "temperatureReferenceHigh": 9.5,
+      "temperatureReferenceLow": 3
+    },
+    {
+      "measurementDate": "2025-12-07",
+      "publishTime": "2025-12-07T16:45:00Z",
+      "temperature": 9.1,
+      "temperatureReferenceAverage": 6.3,
+      "temperatureReferenceHigh": 9.5,
+      "temperatureReferenceLow": 3.1
+    },
+    {
+      "measurementDate": "2025-12-06",
+      "publishTime": "2025-12-06T16:45:00Z",
+      "temperature": 8.2,
+      "temperatureReferenceAverage": 6.4,
+      "temperatureReferenceHigh": 9.5,
+      "temperatureReferenceLow": 3.1
+    },
+    {
+      "measurementDate": "2025-12-05",
+      "publishTime": "2025-12-05T16:45:00Z",
+      "temperature": 6,
+      "temperatureReferenceAverage": 6.4,
+      "temperatureReferenceHigh": 9.6,
+      "temperatureReferenceLow": 3.2
+    },
+    {
+      "measurementDate": "2025-12-04",
+      "publishTime": "2025-12-04T16:45:00Z",
+      "temperature": 7.1,
+      "temperatureReferenceAverage": 6.5,
+      "temperatureReferenceHigh": 9.6,
+      "temperatureReferenceLow": 3.3
+    },
+    {
+      "measurementDate": "2025-12-03",
+      "publishTime": "2025-12-03T16:45:00Z",
+      "temperature": 6.9,
+      "temperatureReferenceAverage": 6.6,
+      "temperatureReferenceHigh": 9.7,
+      "temperatureReferenceLow": 3.4
+    },
+    {
+      "measurementDate": "2025-12-02",
+      "publishTime": "2025-12-02T16:45:00Z",
+      "temperature": 8.6,
+      "temperatureReferenceAverage": 6.7,
+      "temperatureReferenceHigh": 9.7,
+      "temperatureReferenceLow": 3.5
+    },
+    {
+      "measurementDate": "2025-12-01",
+      "publishTime": "2025-12-01T16:45:00Z",
+      "temperature": 9,
+      "temperatureReferenceAverage": 6.8,
+      "temperatureReferenceHigh": 9.8,
+      "temperatureReferenceLow": 3.6
+    },
+    {
+      "measurementDate": "2025-11-30",
+      "publishTime": "2025-11-30T16:45:00Z",
+      "temperature": 7,
+      "temperatureReferenceAverage": 6.9,
+      "temperatureReferenceHigh": 9.8,
+      "temperatureReferenceLow": 3.8
+    },
+    {
+      "measurementDate": "2025-11-29",
+      "publishTime": "2025-11-29T16:45:00Z",
+      "temperature": 8.6,
+      "temperatureReferenceAverage": 7,
+      "temperatureReferenceHigh": 9.9,
+      "temperatureReferenceLow": 3.9
+    },
+    {
+      "measurementDate": "2025-11-28",
+      "publishTime": "2025-11-28T16:45:00Z",
+      "temperature": 9.2,
+      "temperatureReferenceAverage": 7.1,
+      "temperatureReferenceHigh": 10,
+      "temperatureReferenceLow": 4
+    },
+    {
+      "measurementDate": "2025-11-27",
+      "publishTime": "2025-11-27T16:45:00Z",
+      "temperature": 8.5,
+      "temperatureReferenceAverage": 7.2,
+      "temperatureReferenceHigh": 10,
+      "temperatureReferenceLow": 4.2
+    },
+    {
+      "measurementDate": "2025-11-26",
+      "publishTime": "2025-11-26T16:45:00Z",
+      "temperature": 4.2,
+      "temperatureReferenceAverage": 7.3,
+      "temperatureReferenceHigh": 10.1,
+      "temperatureReferenceLow": 4.3
+    },
+    {
+      "measurementDate": "2025-11-25",
+      "publishTime": "2025-11-25T16:45:00Z",
+      "temperature": 5.8,
+      "temperatureReferenceAverage": 7.4,
+      "temperatureReferenceHigh": 10.2,
+      "temperatureReferenceLow": 4.4
+    },
+    {
+      "measurementDate": "2025-11-24",
+      "publishTime": "2025-11-24T16:45:00Z",
+      "temperature": 6.5,
+      "temperatureReferenceAverage": 7.5,
+      "temperatureReferenceHigh": 10.3,
+      "temperatureReferenceLow": 4.6
+    },
+    {
+      "measurementDate": "2025-11-23",
+      "publishTime": "2025-11-23T16:45:00Z",
+      "temperature": 6.5,
+      "temperatureReferenceAverage": 7.6,
+      "temperatureReferenceHigh": 10.3,
+      "temperatureReferenceLow": 4.7
+    },
+    {
+      "measurementDate": "2025-11-22",
+      "publishTime": "2025-11-22T16:45:00Z",
+      "temperature": 4.8,
+      "temperatureReferenceAverage": 7.8,
+      "temperatureReferenceHigh": 10.4,
+      "temperatureReferenceLow": 4.9
+    },
+    {
+      "measurementDate": "2025-11-21",
+      "publishTime": "2025-11-21T16:45:00Z",
+      "temperature": 2.7,
+      "temperatureReferenceAverage": 7.9,
+      "temperatureReferenceHigh": 10.5,
+      "temperatureReferenceLow": 5.1
+    },
+    {
+      "measurementDate": "2025-11-20",
+      "publishTime": "2025-11-20T16:45:00Z",
+      "temperature": 3.7,
+      "temperatureReferenceAverage": 8,
+      "temperatureReferenceHigh": 10.6,
+      "temperatureReferenceLow": 5.2
+    },
+    {
+      "measurementDate": "2025-11-19",
+      "publishTime": "2025-11-19T16:45:00Z",
+      "temperature": 4.8,
+      "temperatureReferenceAverage": 8.2,
+      "temperatureReferenceHigh": 10.8,
+      "temperatureReferenceLow": 5.4
+    },
+    {
+      "measurementDate": "2025-11-18",
+      "publishTime": "2025-11-18T16:45:00Z",
+      "temperature": 6.4,
+      "temperatureReferenceAverage": 8.3,
+      "temperatureReferenceHigh": 10.9,
+      "temperatureReferenceLow": 5.6
+    },
+    {
+      "measurementDate": "2025-11-17",
+      "publishTime": "2025-11-17T16:45:00Z",
+      "temperature": 7.6,
+      "temperatureReferenceAverage": 8.5,
+      "temperatureReferenceHigh": 11,
+      "temperatureReferenceLow": 5.7
+    },
+    {
+      "measurementDate": "2025-11-16",
+      "publishTime": "2025-11-16T16:45:00Z",
+      "temperature": 9.8,
+      "temperatureReferenceAverage": 8.6,
+      "temperatureReferenceHigh": 11.1,
+      "temperatureReferenceLow": 5.9
+    },
+    {
+      "measurementDate": "2025-11-15",
+      "publishTime": "2025-11-15T16:45:00Z",
+      "temperature": 11.2,
+      "temperatureReferenceAverage": 8.8,
+      "temperatureReferenceHigh": 11.2,
+      "temperatureReferenceLow": 6.1
+    },
+    {
+      "measurementDate": "2025-11-14",
+      "publishTime": "2025-11-14T16:45:00Z",
+      "temperature": 11.8,
+      "temperatureReferenceAverage": 8.9,
+      "temperatureReferenceHigh": 11.3,
+      "temperatureReferenceLow": 6.3
+    },
+    {
+      "measurementDate": "2025-11-13",
+      "publishTime": "2025-11-13T16:45:00Z",
+      "temperature": 13,
+      "temperatureReferenceAverage": 9.1,
+      "temperatureReferenceHigh": 11.5,
+      "temperatureReferenceLow": 6.4
+    },
+    {
+      "measurementDate": "2025-11-12",
+      "publishTime": "2025-11-12T16:45:00Z",
+      "temperature": 12.8,
+      "temperatureReferenceAverage": 9.2,
+      "temperatureReferenceHigh": 11.6,
+      "temperatureReferenceLow": 6.6
+    },
+    {
+      "measurementDate": "2025-11-11",
+      "publishTime": "2025-11-11T16:45:00Z",
+      "temperature": 12,
+      "temperatureReferenceAverage": 9.4,
+      "temperatureReferenceHigh": 11.7,
+      "temperatureReferenceLow": 6.8
+    },
+    {
+      "measurementDate": "2025-11-10",
+      "publishTime": "2025-11-10T16:45:00Z",
+      "temperature": 11.9,
+      "temperatureReferenceAverage": 9.6,
+      "temperatureReferenceHigh": 11.9,
+      "temperatureReferenceLow": 6.9
+    },
+    {
+      "measurementDate": "2025-11-09",
+      "publishTime": "2025-11-09T16:45:00Z",
+      "temperature": 11.8,
+      "temperatureReferenceAverage": 9.7,
+      "temperatureReferenceHigh": 12,
+      "temperatureReferenceLow": 7.1
+    },
+    {
+      "measurementDate": "2025-11-08",
+      "publishTime": "2025-11-08T16:45:00Z",
+      "temperature": 13,
+      "temperatureReferenceAverage": 9.9,
+      "temperatureReferenceHigh": 12.1,
+      "temperatureReferenceLow": 7.2
+    },
+    {
+      "measurementDate": "2025-11-07",
+      "publishTime": "2025-11-07T16:45:00Z",
+      "temperature": 13.8,
+      "temperatureReferenceAverage": 10,
+      "temperatureReferenceHigh": 12.3,
+      "temperatureReferenceLow": 7.4
+    },
+    {
+      "measurementDate": "2025-11-06",
+      "publishTime": "2025-11-06T16:45:00Z",
+      "temperature": 14.2,
+      "temperatureReferenceAverage": 10.2,
+      "temperatureReferenceHigh": 12.4,
+      "temperatureReferenceLow": 7.5
+    },
+    {
+      "measurementDate": "2025-11-05",
+      "publishTime": "2025-11-05T16:45:00Z",
+      "temperature": 14.5,
+      "temperatureReferenceAverage": 10.4,
+      "temperatureReferenceHigh": 12.6,
+      "temperatureReferenceLow": 7.7
+    },
+    {
+      "measurementDate": "2025-11-04",
+      "publishTime": "2025-11-04T16:45:00Z",
+      "temperature": 13.6,
+      "temperatureReferenceAverage": 10.6,
+      "temperatureReferenceHigh": 12.8,
+      "temperatureReferenceLow": 7.8
+    },
+    {
+      "measurementDate": "2025-11-03",
+      "publishTime": "2025-11-03T16:45:00Z",
+      "temperature": 12.8,
+      "temperatureReferenceAverage": 10.7,
+      "temperatureReferenceHigh": 12.9,
+      "temperatureReferenceLow": 8
+    },
+    {
+      "measurementDate": "2025-11-02",
+      "publishTime": "2025-11-02T16:45:00Z",
+      "temperature": 11.1,
+      "temperatureReferenceAverage": 10.9,
+      "temperatureReferenceHigh": 13.1,
+      "temperatureReferenceLow": 8.1
+    },
+    {
+      "measurementDate": "2025-11-01",
+      "publishTime": "2025-11-01T16:45:00Z",
+      "temperature": 12.3,
+      "temperatureReferenceAverage": 11.1,
+      "temperatureReferenceHigh": 13.2,
+      "temperatureReferenceLow": 8.2
+    },
+    {
+      "measurementDate": "2025-10-31",
+      "publishTime": "2025-10-31T16:45:00Z",
+      "temperature": 12.1,
+      "temperatureReferenceAverage": 11.2,
+      "temperatureReferenceHigh": 13.4,
+      "temperatureReferenceLow": 8.4
+    },
+    {
+      "measurementDate": "2025-10-30",
+      "publishTime": "2025-10-30T16:45:00Z",
+      "temperature": 10,
+      "temperatureReferenceAverage": 11.4,
+      "temperatureReferenceHigh": 13.5,
+      "temperatureReferenceLow": 8.5
+    },
+    {
+      "measurementDate": "2025-10-29",
+      "publishTime": "2025-10-29T16:45:00Z",
+      "temperature": 11,
+      "temperatureReferenceAverage": 11.5,
+      "temperatureReferenceHigh": 13.6,
+      "temperatureReferenceLow": 8.7
+    },
+    {
+      "measurementDate": "2025-10-28",
+      "publishTime": "2025-10-28T16:45:00Z",
+      "temperature": 11.4,
+      "temperatureReferenceAverage": 11.7,
+      "temperatureReferenceHigh": 13.7,
+      "temperatureReferenceLow": 8.8
+    },
+    {
+      "measurementDate": "2025-10-27",
+      "publishTime": "2025-10-27T16:45:00Z",
+      "temperature": 10.4,
+      "temperatureReferenceAverage": 11.8,
+      "temperatureReferenceHigh": 13.8,
+      "temperatureReferenceLow": 9
+    },
+    {
+      "measurementDate": "2025-10-26",
+      "publishTime": "2025-10-26T16:45:00Z",
+      "temperature": 9.2,
+      "temperatureReferenceAverage": 11.9,
+      "temperatureReferenceHigh": 13.9,
+      "temperatureReferenceLow": 9.2
+    },
+    {
+      "measurementDate": "2025-10-25",
+      "publishTime": "2025-10-25T15:45:00Z",
+      "temperature": 9.6,
+      "temperatureReferenceAverage": 11.1,
+      "temperatureReferenceHigh": 13.4,
+      "temperatureReferenceLow": 8.2
+    },
+    {
+      "measurementDate": "2025-10-24",
+      "publishTime": "2025-10-24T15:45:00Z",
+      "temperature": 9.8,
+      "temperatureReferenceAverage": 11.2,
+      "temperatureReferenceHigh": 13.5,
+      "temperatureReferenceLow": 8.4
+    },
+    {
+      "measurementDate": "2025-10-23",
+      "publishTime": "2025-10-23T15:45:00Z",
+      "temperature": 10.8,
+      "temperatureReferenceAverage": 11.3,
+      "temperatureReferenceHigh": 13.6,
+      "temperatureReferenceLow": 8.5
+    },
+    {
+      "measurementDate": "2025-10-22",
+      "publishTime": "2025-10-22T15:45:00Z",
+      "temperature": 12,
+      "temperatureReferenceAverage": 11.4,
+      "temperatureReferenceHigh": 13.7,
+      "temperatureReferenceLow": 8.7
+    },
+    {
+      "measurementDate": "2025-10-21",
+      "publishTime": "2025-10-21T15:45:00Z",
+      "temperature": 12.7,
+      "temperatureReferenceAverage": 11.5,
+      "temperatureReferenceHigh": 13.8,
+      "temperatureReferenceLow": 8.8
+    },
+    {
+      "measurementDate": "2025-10-20",
+      "publishTime": "2025-10-20T15:45:00Z",
+      "temperature": 12.7,
+      "temperatureReferenceAverage": 11.6,
+      "temperatureReferenceHigh": 13.9,
+      "temperatureReferenceLow": 9
+    },
+    {
+      "measurementDate": "2025-10-19",
+      "publishTime": "2025-10-19T15:45:00Z",
+      "temperature": 12.3,
+      "temperatureReferenceAverage": 11.6,
+      "temperatureReferenceHigh": 14,
+      "temperatureReferenceLow": 9.1
+    },
+    {
+      "measurementDate": "2025-10-18",
+      "publishTime": "2025-10-18T15:45:00Z",
+      "temperature": 11.7,
+      "temperatureReferenceAverage": 11.7,
+      "temperatureReferenceHigh": 14.1,
+      "temperatureReferenceLow": 9.3
+    },
+    {
+      "measurementDate": "2025-10-17",
+      "publishTime": "2025-10-17T15:45:00Z",
+      "temperature": 11.5,
+      "temperatureReferenceAverage": 11.8,
+      "temperatureReferenceHigh": 14.1,
+      "temperatureReferenceLow": 9.4
+    },
+    {
+      "measurementDate": "2025-10-16",
+      "publishTime": "2025-10-16T15:45:00Z",
+      "temperature": 11.2,
+      "temperatureReferenceAverage": 11.9,
+      "temperatureReferenceHigh": 14.2,
+      "temperatureReferenceLow": 9.6
+    },
+    {
+      "measurementDate": "2025-10-15",
+      "publishTime": "2025-10-15T15:45:00Z",
+      "temperature": 11.2,
+      "temperatureReferenceAverage": 12,
+      "temperatureReferenceHigh": 14.3,
+      "temperatureReferenceLow": 9.7
+    },
+    {
+      "measurementDate": "2025-10-14",
+      "publishTime": "2025-10-14T15:45:00Z",
+      "temperature": 11.8,
+      "temperatureReferenceAverage": 12.1,
+      "temperatureReferenceHigh": 14.4,
+      "temperatureReferenceLow": 9.9
+    },
+    {
+      "measurementDate": "2025-10-13",
+      "publishTime": "2025-10-13T15:45:00Z",
+      "temperature": 12.1,
+      "temperatureReferenceAverage": 12.2,
+      "temperatureReferenceHigh": 14.5,
+      "temperatureReferenceLow": 10
+    },
+    {
+      "measurementDate": "2025-10-12",
+      "publishTime": "2025-10-12T15:45:00Z",
+      "temperature": 11.5,
+      "temperatureReferenceAverage": 12.3,
+      "temperatureReferenceHigh": 14.6,
+      "temperatureReferenceLow": 10.2
+    },
+    {
+      "measurementDate": "2025-10-11",
+      "publishTime": "2025-10-11T15:45:00Z",
+      "temperature": 13,
+      "temperatureReferenceAverage": 12.4,
+      "temperatureReferenceHigh": 14.7,
+      "temperatureReferenceLow": 10.3
+    },
+    {
+      "measurementDate": "2025-10-10",
+      "publishTime": "2025-10-10T15:45:00Z",
+      "temperature": 13.6,
+      "temperatureReferenceAverage": 12.5,
+      "temperatureReferenceHigh": 14.8,
+      "temperatureReferenceLow": 10.5
+    },
+    {
+      "measurementDate": "2025-10-09",
+      "publishTime": "2025-10-09T15:45:00Z",
+      "temperature": 13.4,
+      "temperatureReferenceAverage": 12.7,
+      "temperatureReferenceHigh": 14.8,
+      "temperatureReferenceLow": 10.6
+    },
+    {
+      "measurementDate": "2025-10-08",
+      "publishTime": "2025-10-08T15:45:00Z",
+      "temperature": 14,
+      "temperatureReferenceAverage": 12.8,
+      "temperatureReferenceHigh": 14.9,
+      "temperatureReferenceLow": 10.8
+    },
+    {
+      "measurementDate": "2025-10-07",
+      "publishTime": "2025-10-07T15:45:00Z",
+      "temperature": 14.2,
+      "temperatureReferenceAverage": 12.9,
+      "temperatureReferenceHigh": 15,
+      "temperatureReferenceLow": 10.9
+    },
+    {
+      "measurementDate": "2025-10-06",
+      "publishTime": "2025-10-06T15:45:00Z",
+      "temperature": 14.1,
+      "temperatureReferenceAverage": 13,
+      "temperatureReferenceHigh": 15.1,
+      "temperatureReferenceLow": 11.1
+    },
+    {
+      "measurementDate": "2025-10-05",
+      "publishTime": "2025-10-05T15:45:00Z",
+      "temperature": 13.1,
+      "temperatureReferenceAverage": 13.1,
+      "temperatureReferenceHigh": 15.2,
+      "temperatureReferenceLow": 11.2
+    },
+    {
+      "measurementDate": "2025-10-04",
+      "publishTime": "2025-10-04T15:45:00Z",
+      "temperature": 13,
+      "temperatureReferenceAverage": 13.3,
+      "temperatureReferenceHigh": 15.3,
+      "temperatureReferenceLow": 11.3
+    },
+    {
+      "measurementDate": "2025-10-03",
+      "publishTime": "2025-10-03T15:45:00Z",
+      "temperature": 14.5,
+      "temperatureReferenceAverage": 13.4,
+      "temperatureReferenceHigh": 15.4,
+      "temperatureReferenceLow": 11.5
+    },
+    {
+      "measurementDate": "2025-10-02",
+      "publishTime": "2025-10-02T15:45:00Z",
+      "temperature": 13.7,
+      "temperatureReferenceAverage": 13.5,
+      "temperatureReferenceHigh": 15.5,
+      "temperatureReferenceLow": 11.6
+    },
+    {
+      "measurementDate": "2025-10-01",
+      "publishTime": "2025-10-01T15:45:00Z",
+      "temperature": 13.3,
+      "temperatureReferenceAverage": 13.6,
+      "temperatureReferenceHigh": 15.6,
+      "temperatureReferenceLow": 11.7
+    },
+    {
+      "measurementDate": "2025-09-30",
+      "publishTime": "2025-09-30T15:45:00Z",
+      "temperature": 12.8,
+      "temperatureReferenceAverage": 13.7,
+      "temperatureReferenceHigh": 15.6,
+      "temperatureReferenceLow": 11.9
+    },
+    {
+      "measurementDate": "2025-09-29",
+      "publishTime": "2025-09-29T15:45:00Z",
+      "temperature": 12.2,
+      "temperatureReferenceAverage": 13.9,
+      "temperatureReferenceHigh": 15.7,
+      "temperatureReferenceLow": 12
+    },
+    {
+      "measurementDate": "2025-09-28",
+      "publishTime": "2025-09-28T15:45:00Z",
+      "temperature": 13.1,
+      "temperatureReferenceAverage": 14,
+      "temperatureReferenceHigh": 15.8,
+      "temperatureReferenceLow": 12.1
+    },
+    {
+      "measurementDate": "2025-09-27",
+      "publishTime": "2025-09-27T15:45:00Z",
+      "temperature": 12.9,
+      "temperatureReferenceAverage": 14.1,
+      "temperatureReferenceHigh": 15.9,
+      "temperatureReferenceLow": 12.2
+    },
+    {
+      "measurementDate": "2025-09-26",
+      "publishTime": "2025-09-26T15:45:00Z",
+      "temperature": 12.3,
+      "temperatureReferenceAverage": 14.2,
+      "temperatureReferenceHigh": 16,
+      "temperatureReferenceLow": 12.4
+    },
+    {
+      "measurementDate": "2025-09-25",
+      "publishTime": "2025-09-25T15:45:00Z",
+      "temperature": 12.7,
+      "temperatureReferenceAverage": 14.3,
+      "temperatureReferenceHigh": 16.1,
+      "temperatureReferenceLow": 12.5
+    },
+    {
+      "measurementDate": "2025-09-24",
+      "publishTime": "2025-09-24T15:45:00Z",
+      "temperature": 12.3,
+      "temperatureReferenceAverage": 14.4,
+      "temperatureReferenceHigh": 16.2,
+      "temperatureReferenceLow": 12.6
+    },
+    {
+      "measurementDate": "2025-09-23",
+      "publishTime": "2025-09-23T15:45:00Z",
+      "temperature": 12.1,
+      "temperatureReferenceAverage": 14.5,
+      "temperatureReferenceHigh": 16.3,
+      "temperatureReferenceLow": 12.7
+    },
+    {
+      "measurementDate": "2025-09-22",
+      "publishTime": "2025-09-22T15:45:00Z",
+      "temperature": 12.5,
+      "temperatureReferenceAverage": 14.6,
+      "temperatureReferenceHigh": 16.4,
+      "temperatureReferenceLow": 12.8
+    },
+    {
+      "measurementDate": "2025-09-21",
+      "publishTime": "2025-09-21T15:45:00Z",
+      "temperature": 13.9,
+      "temperatureReferenceAverage": 14.7,
+      "temperatureReferenceHigh": 16.6,
+      "temperatureReferenceLow": 13
+    },
+    {
+      "measurementDate": "2025-09-20",
+      "publishTime": "2025-09-20T15:45:00Z",
+      "temperature": 16.4,
+      "temperatureReferenceAverage": 14.8,
+      "temperatureReferenceHigh": 16.7,
+      "temperatureReferenceLow": 13.1
+    },
+    {
+      "measurementDate": "2025-09-19",
+      "publishTime": "2025-09-19T15:45:00Z",
+      "temperature": 17.5,
+      "temperatureReferenceAverage": 14.9,
+      "temperatureReferenceHigh": 16.8,
+      "temperatureReferenceLow": 13.2
+    },
+    {
+      "measurementDate": "2025-09-18",
+      "publishTime": "2025-09-18T15:45:00Z",
+      "temperature": 16.6,
+      "temperatureReferenceAverage": 15,
+      "temperatureReferenceHigh": 16.9,
+      "temperatureReferenceLow": 13.3
+    },
+    {
+      "measurementDate": "2025-09-17",
+      "publishTime": "2025-09-17T15:45:00Z",
+      "temperature": 15,
+      "temperatureReferenceAverage": 15.1,
+      "temperatureReferenceHigh": 17,
+      "temperatureReferenceLow": 13.4
+    },
+    {
+      "measurementDate": "2025-09-16",
+      "publishTime": "2025-09-16T15:45:00Z",
+      "temperature": 14.8,
+      "temperatureReferenceAverage": 15.2,
+      "temperatureReferenceHigh": 17.1,
+      "temperatureReferenceLow": 13.5
+    },
+    {
+      "measurementDate": "2025-09-15",
+      "publishTime": "2025-09-15T15:45:00Z",
+      "temperature": 14.4,
+      "temperatureReferenceAverage": 15.3,
+      "temperatureReferenceHigh": 17.2,
+      "temperatureReferenceLow": 13.6
+    },
+    {
+      "measurementDate": "2025-09-14",
+      "publishTime": "2025-09-14T15:45:00Z",
+      "temperature": 13.4,
+      "temperatureReferenceAverage": 15.4,
+      "temperatureReferenceHigh": 17.3,
+      "temperatureReferenceLow": 13.8
+    },
+    {
+      "measurementDate": "2025-09-13",
+      "publishTime": "2025-09-13T15:45:00Z",
+      "temperature": 14.2,
+      "temperatureReferenceAverage": 15.5,
+      "temperatureReferenceHigh": 17.4,
+      "temperatureReferenceLow": 13.9
+    },
+    {
+      "measurementDate": "2025-09-12",
+      "publishTime": "2025-09-12T15:45:00Z",
+      "temperature": 14.9,
+      "temperatureReferenceAverage": 15.6,
+      "temperatureReferenceHigh": 17.6,
+      "temperatureReferenceLow": 14
+    },
+    {
+      "measurementDate": "2025-09-11",
+      "publishTime": "2025-09-11T15:45:00Z",
+      "temperature": 15.6,
+      "temperatureReferenceAverage": 15.7,
+      "temperatureReferenceHigh": 17.7,
+      "temperatureReferenceLow": 14.1
+    },
+    {
+      "measurementDate": "2025-09-10",
+      "publishTime": "2025-09-10T15:45:00Z",
+      "temperature": 16.3,
+      "temperatureReferenceAverage": 15.8,
+      "temperatureReferenceHigh": 17.8,
+      "temperatureReferenceLow": 14.2
+    },
+    {
+      "measurementDate": "2025-09-09",
+      "publishTime": "2025-09-09T15:45:00Z",
+      "temperature": 16.6,
+      "temperatureReferenceAverage": 15.9,
+      "temperatureReferenceHigh": 17.9,
+      "temperatureReferenceLow": 14.3
+    },
+    {
+      "measurementDate": "2025-09-08",
+      "publishTime": "2025-09-08T15:45:00Z",
+      "temperature": 17.3,
+      "temperatureReferenceAverage": 15.9,
+      "temperatureReferenceHigh": 18,
+      "temperatureReferenceLow": 14.4
+    },
+    {
+      "measurementDate": "2025-09-07",
+      "publishTime": "2025-09-07T15:45:00Z",
+      "temperature": 18.1,
+      "temperatureReferenceAverage": 16,
+      "temperatureReferenceHigh": 18.1,
+      "temperatureReferenceLow": 14.5
+    },
+    {
+      "measurementDate": "2025-09-06",
+      "publishTime": "2025-09-06T15:45:00Z",
+      "temperature": 16.7,
+      "temperatureReferenceAverage": 16.1,
+      "temperatureReferenceHigh": 18.2,
+      "temperatureReferenceLow": 14.6
+    },
+    {
+      "measurementDate": "2025-09-05",
+      "publishTime": "2025-09-05T15:45:00Z",
+      "temperature": 16.3,
+      "temperatureReferenceAverage": 16.2,
+      "temperatureReferenceHigh": 18.2,
+      "temperatureReferenceLow": 14.7
+    },
+    {
+      "measurementDate": "2025-09-04",
+      "publishTime": "2025-09-04T15:45:00Z",
+      "temperature": 16,
+      "temperatureReferenceAverage": 16.3,
+      "temperatureReferenceHigh": 18.3,
+      "temperatureReferenceLow": 14.8
+    },
+    {
+      "measurementDate": "2025-09-03",
+      "publishTime": "2025-09-03T15:45:00Z",
+      "temperature": 17,
+      "temperatureReferenceAverage": 16.4,
+      "temperatureReferenceHigh": 18.4,
+      "temperatureReferenceLow": 14.9
+    },
+    {
+      "measurementDate": "2025-09-02",
+      "publishTime": "2025-09-02T15:45:00Z",
+      "temperature": 16.7,
+      "temperatureReferenceAverage": 16.4,
+      "temperatureReferenceHigh": 18.5,
+      "temperatureReferenceLow": 15
+    },
+    {
+      "measurementDate": "2025-09-01",
+      "publishTime": "2025-09-01T15:45:00Z",
+      "temperature": 17.3,
+      "temperatureReferenceAverage": 16.5,
+      "temperatureReferenceHigh": 18.6,
+      "temperatureReferenceLow": 15.1
+    },
+    {
+      "measurementDate": "2025-08-31",
+      "publishTime": "2025-08-31T15:45:00Z",
+      "temperature": 17.6,
+      "temperatureReferenceAverage": 16.6,
+      "temperatureReferenceHigh": 18.7,
+      "temperatureReferenceLow": 15.1
+    },
+    {
+      "measurementDate": "2025-08-30",
+      "publishTime": "2025-08-30T15:45:00Z",
+      "temperature": 17.5,
+      "temperatureReferenceAverage": 16.7,
+      "temperatureReferenceHigh": 18.7,
+      "temperatureReferenceLow": 15.2
+    },
+    {
+      "measurementDate": "2025-08-29",
+      "publishTime": "2025-08-29T15:45:00Z",
+      "temperature": 17,
+      "temperatureReferenceAverage": 16.8,
+      "temperatureReferenceHigh": 18.8,
+      "temperatureReferenceLow": 15.3
+    },
+    {
+      "measurementDate": "2025-08-28",
+      "publishTime": "2025-08-28T15:45:00Z",
+      "temperature": 18.2,
+      "temperatureReferenceAverage": 16.8,
+      "temperatureReferenceHigh": 18.9,
+      "temperatureReferenceLow": 15.4
+    },
+    {
+      "measurementDate": "2025-08-27",
+      "publishTime": "2025-08-27T15:45:00Z",
+      "temperature": 18.8,
+      "temperatureReferenceAverage": 16.9,
+      "temperatureReferenceHigh": 19,
+      "temperatureReferenceLow": 15.5
+    },
+    {
+      "measurementDate": "2025-08-26",
+      "publishTime": "2025-08-26T15:45:00Z",
+      "temperature": 19.5,
+      "temperatureReferenceAverage": 17,
+      "temperatureReferenceHigh": 19.1,
+      "temperatureReferenceLow": 15.5
+    },
+    {
+      "measurementDate": "2025-08-25",
+      "publishTime": "2025-08-25T15:45:00Z",
+      "temperature": 19.8,
+      "temperatureReferenceAverage": 17.1,
+      "temperatureReferenceHigh": 19.2,
+      "temperatureReferenceLow": 15.6
+    },
+    {
+      "measurementDate": "2025-08-24",
+      "publishTime": "2025-08-24T15:45:00Z",
+      "temperature": 18.6,
+      "temperatureReferenceAverage": 17.2,
+      "temperatureReferenceHigh": 19.3,
+      "temperatureReferenceLow": 15.7
+    },
+    {
+      "measurementDate": "2025-08-23",
+      "publishTime": "2025-08-23T15:45:00Z",
+      "temperature": 17.3,
+      "temperatureReferenceAverage": 17.2,
+      "temperatureReferenceHigh": 19.4,
+      "temperatureReferenceLow": 15.8
+    },
+    {
+      "measurementDate": "2025-08-22",
+      "publishTime": "2025-08-22T15:45:00Z",
+      "temperature": 16.5,
+      "temperatureReferenceAverage": 17.3,
+      "temperatureReferenceHigh": 19.5,
+      "temperatureReferenceLow": 15.8
+    },
+    {
+      "measurementDate": "2025-08-21",
+      "publishTime": "2025-08-21T15:45:00Z",
+      "temperature": 16.5,
+      "temperatureReferenceAverage": 17.4,
+      "temperatureReferenceHigh": 19.6,
+      "temperatureReferenceLow": 15.9
+    },
+    {
+      "measurementDate": "2025-08-20",
+      "publishTime": "2025-08-20T15:45:00Z",
+      "temperature": 17.1,
+      "temperatureReferenceAverage": 17.4,
+      "temperatureReferenceHigh": 19.7,
+      "temperatureReferenceLow": 16
+    },
+    {
+      "measurementDate": "2025-08-19",
+      "publishTime": "2025-08-19T15:45:00Z",
+      "temperature": 18.3,
+      "temperatureReferenceAverage": 17.5,
+      "temperatureReferenceHigh": 19.8,
+      "temperatureReferenceLow": 16
+    },
+    {
+      "measurementDate": "2025-08-18",
+      "publishTime": "2025-08-18T15:45:00Z",
+      "temperature": 18.9,
+      "temperatureReferenceAverage": 17.6,
+      "temperatureReferenceHigh": 19.9,
+      "temperatureReferenceLow": 16.1
+    },
+    {
+      "measurementDate": "2025-08-17",
+      "publishTime": "2025-08-17T15:45:00Z",
+      "temperature": 19.5,
+      "temperatureReferenceAverage": 17.6,
+      "temperatureReferenceHigh": 20,
+      "temperatureReferenceLow": 16.1
+    },
+    {
+      "measurementDate": "2025-08-16",
+      "publishTime": "2025-08-16T15:45:00Z",
+      "temperature": 20,
+      "temperatureReferenceAverage": 17.7,
+      "temperatureReferenceHigh": 20.1,
+      "temperatureReferenceLow": 16.2
+    },
+    {
+      "measurementDate": "2025-08-15",
+      "publishTime": "2025-08-15T15:45:00Z",
+      "temperature": 21.7,
+      "temperatureReferenceAverage": 17.7,
+      "temperatureReferenceHigh": 20.2,
+      "temperatureReferenceLow": 16.2
+    },
+    {
+      "measurementDate": "2025-08-14",
+      "publishTime": "2025-08-14T15:45:00Z",
+      "temperature": 21.5,
+      "temperatureReferenceAverage": 17.8,
+      "temperatureReferenceHigh": 20.3,
+      "temperatureReferenceLow": 16.3
+    },
+    {
+      "measurementDate": "2025-08-13",
+      "publishTime": "2025-08-13T15:45:00Z",
+      "temperature": 22,
+      "temperatureReferenceAverage": 17.8,
+      "temperatureReferenceHigh": 20.4,
+      "temperatureReferenceLow": 16.3
+    },
+    {
+      "measurementDate": "2025-08-12",
+      "publishTime": "2025-08-12T15:45:00Z",
+      "temperature": 22,
+      "temperatureReferenceAverage": 17.9,
+      "temperatureReferenceHigh": 20.5,
+      "temperatureReferenceLow": 16.3
+    },
+    {
+      "measurementDate": "2025-08-11",
+      "publishTime": "2025-08-11T15:45:00Z",
+      "temperature": 20.7,
+      "temperatureReferenceAverage": 17.9,
+      "temperatureReferenceHigh": 20.5,
+      "temperatureReferenceLow": 16.3
+    },
+    {
+      "measurementDate": "2025-08-10",
+      "publishTime": "2025-08-10T15:45:00Z",
+      "temperature": 19.1,
+      "temperatureReferenceAverage": 17.9,
+      "temperatureReferenceHigh": 20.6,
+      "temperatureReferenceLow": 16.4
+    },
+    {
+      "measurementDate": "2025-08-09",
+      "publishTime": "2025-08-09T15:45:00Z",
+      "temperature": 18.6,
+      "temperatureReferenceAverage": 18,
+      "temperatureReferenceHigh": 20.6,
+      "temperatureReferenceLow": 16.4
+    },
+    {
+      "measurementDate": "2025-08-08",
+      "publishTime": "2025-08-08T15:45:00Z",
+      "temperature": 18.4,
+      "temperatureReferenceAverage": 18,
+      "temperatureReferenceHigh": 20.7,
+      "temperatureReferenceLow": 16.4
+    },
+    {
+      "measurementDate": "2025-08-07",
+      "publishTime": "2025-08-07T15:45:00Z",
+      "temperature": 18.2,
+      "temperatureReferenceAverage": 18,
+      "temperatureReferenceHigh": 20.7,
+      "temperatureReferenceLow": 16.4
+    },
+    {
+      "measurementDate": "2025-08-06",
+      "publishTime": "2025-08-06T15:45:00Z",
+      "temperature": 17.9,
+      "temperatureReferenceAverage": 18.1,
+      "temperatureReferenceHigh": 20.8,
+      "temperatureReferenceLow": 16.4
+    },
+    {
+      "measurementDate": "2025-08-05",
+      "publishTime": "2025-08-05T15:45:00Z",
+      "temperature": 17.9,
+      "temperatureReferenceAverage": 18.1,
+      "temperatureReferenceHigh": 20.8,
+      "temperatureReferenceLow": 16.4
+    },
+    {
+      "measurementDate": "2025-08-04",
+      "publishTime": "2025-08-04T15:45:00Z",
+      "temperature": 18.7,
+      "temperatureReferenceAverage": 18.1,
+      "temperatureReferenceHigh": 20.9,
+      "temperatureReferenceLow": 16.4
+    },
+    {
+      "measurementDate": "2025-08-03",
+      "publishTime": "2025-08-03T15:45:00Z",
+      "temperature": 18.2,
+      "temperatureReferenceAverage": 18.1,
+      "temperatureReferenceHigh": 20.9,
+      "temperatureReferenceLow": 16.4
+    },
+    {
+      "measurementDate": "2025-08-02",
+      "publishTime": "2025-08-02T15:45:00Z",
+      "temperature": 17.4,
+      "temperatureReferenceAverage": 18.1,
+      "temperatureReferenceHigh": 20.9,
+      "temperatureReferenceLow": 16.4
+    },
+    {
+      "measurementDate": "2025-08-01",
+      "publishTime": "2025-08-01T15:45:00Z",
+      "temperature": 17.7,
+      "temperatureReferenceAverage": 18.1,
+      "temperatureReferenceHigh": 21,
+      "temperatureReferenceLow": 16.4
+    },
+    {
+      "measurementDate": "2025-07-31",
+      "publishTime": "2025-07-31T15:45:00Z",
+      "temperature": 18.5,
+      "temperatureReferenceAverage": 18.1,
+      "temperatureReferenceHigh": 21,
+      "temperatureReferenceLow": 16.4
+    },
+    {
+      "measurementDate": "2025-07-30",
+      "publishTime": "2025-07-30T15:45:00Z",
+      "temperature": 18.2,
+      "temperatureReferenceAverage": 18.1,
+      "temperatureReferenceHigh": 21,
+      "temperatureReferenceLow": 16.4
+    },
+    {
+      "measurementDate": "2025-07-29",
+      "publishTime": "2025-07-29T15:45:00Z",
+      "temperature": 17.4,
+      "temperatureReferenceAverage": 18.1,
+      "temperatureReferenceHigh": 21,
+      "temperatureReferenceLow": 16.3
+    },
+    {
+      "measurementDate": "2025-07-28",
+      "publishTime": "2025-07-28T15:45:00Z",
+      "temperature": 18.3,
+      "temperatureReferenceAverage": 18.1,
+      "temperatureReferenceHigh": 21.1,
+      "temperatureReferenceLow": 16.3
+    },
+    {
+      "measurementDate": "2025-07-27",
+      "publishTime": "2025-07-27T15:45:00Z",
+      "temperature": 18.4,
+      "temperatureReferenceAverage": 18.1,
+      "temperatureReferenceHigh": 21.1,
+      "temperatureReferenceLow": 16.3
+    },
+    {
+      "measurementDate": "2025-07-26",
+      "publishTime": "2025-07-26T15:45:00Z",
+      "temperature": 19.4,
+      "temperatureReferenceAverage": 18.1,
+      "temperatureReferenceHigh": 21.1,
+      "temperatureReferenceLow": 16.2
+    },
+    {
+      "measurementDate": "2025-07-25",
+      "publishTime": "2025-07-25T15:45:00Z",
+      "temperature": 19.8,
+      "temperatureReferenceAverage": 18.1,
+      "temperatureReferenceHigh": 21.1,
+      "temperatureReferenceLow": 16.2
+    },
+    {
+      "measurementDate": "2025-07-24",
+      "publishTime": "2025-07-24T15:45:00Z",
+      "temperature": 18.7,
+      "temperatureReferenceAverage": 18,
+      "temperatureReferenceHigh": 21.1,
+      "temperatureReferenceLow": 16.2
+    },
+    {
+      "measurementDate": "2025-07-23",
+      "publishTime": "2025-07-23T15:45:00Z",
+      "temperature": 18.5,
+      "temperatureReferenceAverage": 18,
+      "temperatureReferenceHigh": 21.1,
+      "temperatureReferenceLow": 16.1
+    },
+    {
+      "measurementDate": "2025-07-22",
+      "publishTime": "2025-07-22T15:45:00Z",
+      "temperature": 18.9,
+      "temperatureReferenceAverage": 18,
+      "temperatureReferenceHigh": 21.1,
+      "temperatureReferenceLow": 16.1
+    },
+    {
+      "measurementDate": "2025-07-21",
+      "publishTime": "2025-07-21T15:45:00Z",
+      "temperature": 18.9,
+      "temperatureReferenceAverage": 17.9,
+      "temperatureReferenceHigh": 21.1,
+      "temperatureReferenceLow": 16
+    },
+    {
+      "measurementDate": "2025-07-20",
+      "publishTime": "2025-07-20T15:45:00Z",
+      "temperature": 19,
+      "temperatureReferenceAverage": 17.9,
+      "temperatureReferenceHigh": 21.1,
+      "temperatureReferenceLow": 16
+    },
+    {
+      "measurementDate": "2025-07-19",
+      "publishTime": "2025-07-19T15:45:00Z",
+      "temperature": 19.3,
+      "temperatureReferenceAverage": 17.8,
+      "temperatureReferenceHigh": 21,
+      "temperatureReferenceLow": 15.9
+    },
+    {
+      "measurementDate": "2025-07-18",
+      "publishTime": "2025-07-18T15:45:00Z",
+      "temperature": 20.5,
+      "temperatureReferenceAverage": 17.8,
+      "temperatureReferenceHigh": 21,
+      "temperatureReferenceLow": 15.9
+    },
+    {
+      "measurementDate": "2025-07-17",
+      "publishTime": "2025-07-17T15:45:00Z",
+      "temperature": 20,
+      "temperatureReferenceAverage": 17.7,
+      "temperatureReferenceHigh": 21,
+      "temperatureReferenceLow": 15.8
+    },
+    {
+      "measurementDate": "2025-07-16",
+      "publishTime": "2025-07-16T15:45:00Z",
+      "temperature": 19.5,
+      "temperatureReferenceAverage": 17.7,
+      "temperatureReferenceHigh": 20.9,
+      "temperatureReferenceLow": 15.8
+    },
+    {
+      "measurementDate": "2025-07-15",
+      "publishTime": "2025-07-15T15:45:00Z",
+      "temperature": 19.8,
+      "temperatureReferenceAverage": 17.6,
+      "temperatureReferenceHigh": 20.9,
+      "temperatureReferenceLow": 15.7
+    },
+    {
+      "measurementDate": "2025-07-14",
+      "publishTime": "2025-07-14T15:45:00Z",
+      "temperature": 21.9,
+      "temperatureReferenceAverage": 17.6,
+      "temperatureReferenceHigh": 20.8,
+      "temperatureReferenceLow": 15.7
+    },
+    {
+      "measurementDate": "2025-07-13",
+      "publishTime": "2025-07-13T15:45:00Z",
+      "temperature": 22.7,
+      "temperatureReferenceAverage": 17.5,
+      "temperatureReferenceHigh": 20.8,
+      "temperatureReferenceLow": 15.6
+    },
+    {
+      "measurementDate": "2025-07-12",
+      "publishTime": "2025-07-12T15:45:00Z",
+      "temperature": 23.9,
+      "temperatureReferenceAverage": 17.4,
+      "temperatureReferenceHigh": 20.7,
+      "temperatureReferenceLow": 15.6
+    },
+    {
+      "measurementDate": "2025-07-11",
+      "publishTime": "2025-07-11T15:45:00Z",
+      "temperature": 23.1,
+      "temperatureReferenceAverage": 17.4,
+      "temperatureReferenceHigh": 20.7,
+      "temperatureReferenceLow": 15.5
+    },
+    {
+      "measurementDate": "2025-07-10",
+      "publishTime": "2025-07-10T15:45:00Z",
+      "temperature": 20.9,
+      "temperatureReferenceAverage": 17.3,
+      "temperatureReferenceHigh": 20.6,
+      "temperatureReferenceLow": 15.5
+    },
+    {
+      "measurementDate": "2025-07-09",
+      "publishTime": "2025-07-09T15:45:00Z",
+      "temperature": 18.7,
+      "temperatureReferenceAverage": 17.3,
+      "temperatureReferenceHigh": 20.6,
+      "temperatureReferenceLow": 15.4
+    },
+    {
+      "measurementDate": "2025-07-08",
+      "publishTime": "2025-07-08T15:45:00Z",
+      "temperature": 17.2,
+      "temperatureReferenceAverage": 17.2,
+      "temperatureReferenceHigh": 20.5,
+      "temperatureReferenceLow": 15.4
+    },
+    {
+      "measurementDate": "2025-07-07",
+      "publishTime": "2025-07-07T15:45:00Z",
+      "temperature": 17.2,
+      "temperatureReferenceAverage": 17.1,
+      "temperatureReferenceHigh": 20.5,
+      "temperatureReferenceLow": 15.3
+    },
+    {
+      "measurementDate": "2025-07-06",
+      "publishTime": "2025-07-06T15:45:00Z",
+      "temperature": 18.3,
+      "temperatureReferenceAverage": 17.1,
+      "temperatureReferenceHigh": 20.4,
+      "temperatureReferenceLow": 15.3
+    },
+    {
+      "measurementDate": "2025-07-05",
+      "publishTime": "2025-07-05T15:45:00Z",
+      "temperature": 19.2,
+      "temperatureReferenceAverage": 17,
+      "temperatureReferenceHigh": 20.3,
+      "temperatureReferenceLow": 15.2
+    },
+    {
+      "measurementDate": "2025-07-04",
+      "publishTime": "2025-07-04T15:45:00Z",
+      "temperature": 19,
+      "temperatureReferenceAverage": 17,
+      "temperatureReferenceHigh": 20.3,
+      "temperatureReferenceLow": 15.2
+    },
+    {
+      "measurementDate": "2025-07-03",
+      "publishTime": "2025-07-03T15:45:00Z",
+      "temperature": 19,
+      "temperatureReferenceAverage": 16.9,
+      "temperatureReferenceHigh": 20.2,
+      "temperatureReferenceLow": 15.1
+    },
+    {
+      "measurementDate": "2025-07-02",
+      "publishTime": "2025-07-02T15:45:00Z",
+      "temperature": 19.5,
+      "temperatureReferenceAverage": 16.9,
+      "temperatureReferenceHigh": 20.2,
+      "temperatureReferenceLow": 15.1
+    },
+    {
+      "measurementDate": "2025-07-01",
+      "publishTime": "2025-07-01T15:45:00Z",
+      "temperature": 22.4,
+      "temperatureReferenceAverage": 16.8,
+      "temperatureReferenceHigh": 20.1,
+      "temperatureReferenceLow": 15
+    },
+    {
+      "measurementDate": "2025-06-30",
+      "publishTime": "2025-06-30T15:45:00Z",
+      "temperature": 22.2,
+      "temperatureReferenceAverage": 16.8,
+      "temperatureReferenceHigh": 20,
+      "temperatureReferenceLow": 15
+    },
+    {
+      "measurementDate": "2025-06-29",
+      "publishTime": "2025-06-29T15:45:00Z",
+      "temperature": 20.6,
+      "temperatureReferenceAverage": 16.7,
+      "temperatureReferenceHigh": 20,
+      "temperatureReferenceLow": 14.9
+    },
+    {
+      "measurementDate": "2025-06-28",
+      "publishTime": "2025-06-28T15:45:00Z",
+      "temperature": 20.6,
+      "temperatureReferenceAverage": 16.7,
+      "temperatureReferenceHigh": 19.9,
+      "temperatureReferenceLow": 14.9
+    },
+    {
+      "measurementDate": "2025-06-27",
+      "publishTime": "2025-06-27T15:45:00Z",
+      "temperature": 19.3,
+      "temperatureReferenceAverage": 16.6,
+      "temperatureReferenceHigh": 19.8,
+      "temperatureReferenceLow": 14.8
+    },
+    {
+      "measurementDate": "2025-06-26",
+      "publishTime": "2025-06-26T15:45:00Z",
+      "temperature": 19.2,
+      "temperatureReferenceAverage": 16.6,
+      "temperatureReferenceHigh": 19.7,
+      "temperatureReferenceLow": 14.7
+    },
+    {
+      "measurementDate": "2025-06-25",
+      "publishTime": "2025-06-25T15:45:00Z",
+      "temperature": 19.1,
+      "temperatureReferenceAverage": 16.5,
+      "temperatureReferenceHigh": 19.7,
+      "temperatureReferenceLow": 14.7
+    },
+    {
+      "measurementDate": "2025-06-24",
+      "publishTime": "2025-06-24T15:45:00Z",
+      "temperature": 18.9,
+      "temperatureReferenceAverage": 16.5,
+      "temperatureReferenceHigh": 19.6,
+      "temperatureReferenceLow": 14.6
+    },
+    {
+      "measurementDate": "2025-06-23",
+      "publishTime": "2025-06-23T15:45:00Z",
+      "temperature": 19.4,
+      "temperatureReferenceAverage": 16.4,
+      "temperatureReferenceHigh": 19.5,
+      "temperatureReferenceLow": 14.5
+    },
+    {
+      "measurementDate": "2025-06-22",
+      "publishTime": "2025-06-22T15:45:00Z",
+      "temperature": 22,
+      "temperatureReferenceAverage": 16.4,
+      "temperatureReferenceHigh": 19.4,
+      "temperatureReferenceLow": 14.5
+    },
+    {
+      "measurementDate": "2025-06-21",
+      "publishTime": "2025-06-21T15:45:00Z",
+      "temperature": 23.7,
+      "temperatureReferenceAverage": 16.3,
+      "temperatureReferenceHigh": 19.3,
+      "temperatureReferenceLow": 14.4
+    },
+    {
+      "measurementDate": "2025-06-20",
+      "publishTime": "2025-06-20T15:45:00Z",
+      "temperature": 22.4,
+      "temperatureReferenceAverage": 16.2,
+      "temperatureReferenceHigh": 19.2,
+      "temperatureReferenceLow": 14.3
+    },
+    {
+      "measurementDate": "2025-06-19",
+      "publishTime": "2025-06-19T15:45:00Z",
+      "temperature": 21,
+      "temperatureReferenceAverage": 16.2,
+      "temperatureReferenceHigh": 19.1,
+      "temperatureReferenceLow": 14.2
+    },
+    {
+      "measurementDate": "2025-06-18",
+      "publishTime": "2025-06-18T15:45:00Z",
+      "temperature": 19.6,
+      "temperatureReferenceAverage": 16.1,
+      "temperatureReferenceHigh": 19,
+      "temperatureReferenceLow": 14.1
+    },
+    {
+      "measurementDate": "2025-06-17",
+      "publishTime": "2025-06-17T15:45:00Z",
+      "temperature": 19.1,
+      "temperatureReferenceAverage": 16,
+      "temperatureReferenceHigh": 18.9,
+      "temperatureReferenceLow": 14
+    },
+    {
+      "measurementDate": "2025-06-16",
+      "publishTime": "2025-06-16T15:45:00Z",
+      "temperature": 19,
+      "temperatureReferenceAverage": 15.9,
+      "temperatureReferenceHigh": 18.8,
+      "temperatureReferenceLow": 13.9
+    },
+    {
+      "measurementDate": "2025-06-15",
+      "publishTime": "2025-06-15T15:45:00Z",
+      "temperature": 18.7,
+      "temperatureReferenceAverage": 15.9,
+      "temperatureReferenceHigh": 18.7,
+      "temperatureReferenceLow": 13.9
+    },
+    {
+      "measurementDate": "2025-06-14",
+      "publishTime": "2025-06-14T15:45:00Z",
+      "temperature": 19.2,
+      "temperatureReferenceAverage": 15.8,
+      "temperatureReferenceHigh": 18.6,
+      "temperatureReferenceLow": 13.8
+    },
+    {
+      "measurementDate": "2025-06-13",
+      "publishTime": "2025-06-13T15:45:00Z",
+      "temperature": 19.1,
+      "temperatureReferenceAverage": 15.7,
+      "temperatureReferenceHigh": 18.5,
+      "temperatureReferenceLow": 13.7
+    },
+    {
+      "measurementDate": "2025-06-12",
+      "publishTime": "2025-06-12T15:45:00Z",
+      "temperature": 17.9,
+      "temperatureReferenceAverage": 15.6,
+      "temperatureReferenceHigh": 18.4,
+      "temperatureReferenceLow": 13.6
+    },
+    {
+      "measurementDate": "2025-06-11",
+      "publishTime": "2025-06-11T15:45:00Z",
+      "temperature": 16.6,
+      "temperatureReferenceAverage": 15.5,
+      "temperatureReferenceHigh": 18.3,
+      "temperatureReferenceLow": 13.5
+    },
+    {
+      "measurementDate": "2025-06-10",
+      "publishTime": "2025-06-10T15:45:00Z",
+      "temperature": 15.6,
+      "temperatureReferenceAverage": 15.4,
+      "temperatureReferenceHigh": 18.2,
+      "temperatureReferenceLow": 13.4
+    },
+    {
+      "measurementDate": "2025-06-09",
+      "publishTime": "2025-06-09T15:45:00Z",
+      "temperature": 14.8,
+      "temperatureReferenceAverage": 15.3,
+      "temperatureReferenceHigh": 18.1,
+      "temperatureReferenceLow": 13.3
+    },
+    {
+      "measurementDate": "2025-06-08",
+      "publishTime": "2025-06-08T15:45:00Z",
+      "temperature": 13.7,
+      "temperatureReferenceAverage": 15.2,
+      "temperatureReferenceHigh": 18,
+      "temperatureReferenceLow": 13.2
+    },
+    {
+      "measurementDate": "2025-06-07",
+      "publishTime": "2025-06-07T15:45:00Z",
+      "temperature": 13.7,
+      "temperatureReferenceAverage": 15.1,
+      "temperatureReferenceHigh": 17.9,
+      "temperatureReferenceLow": 13.1
+    },
+    {
+      "measurementDate": "2025-06-06",
+      "publishTime": "2025-06-06T15:45:00Z",
+      "temperature": 14.1,
+      "temperatureReferenceAverage": 15.1,
+      "temperatureReferenceHigh": 17.8,
+      "temperatureReferenceLow": 13.1
+    },
+    {
+      "measurementDate": "2025-06-05",
+      "publishTime": "2025-06-05T15:45:00Z",
+      "temperature": 13.8,
+      "temperatureReferenceAverage": 15,
+      "temperatureReferenceHigh": 17.7,
+      "temperatureReferenceLow": 13
+    },
+    {
+      "measurementDate": "2025-06-04",
+      "publishTime": "2025-06-04T15:45:00Z",
+      "temperature": 14.7,
+      "temperatureReferenceAverage": 14.9,
+      "temperatureReferenceHigh": 17.6,
+      "temperatureReferenceLow": 12.9
+    },
+    {
+      "measurementDate": "2025-06-03",
+      "publishTime": "2025-06-03T15:45:00Z",
+      "temperature": 15.1,
+      "temperatureReferenceAverage": 14.8,
+      "temperatureReferenceHigh": 17.6,
+      "temperatureReferenceLow": 12.8
+    },
+    {
+      "measurementDate": "2025-06-02",
+      "publishTime": "2025-06-02T15:45:00Z",
+      "temperature": 16.1,
+      "temperatureReferenceAverage": 14.7,
+      "temperatureReferenceHigh": 17.5,
+      "temperatureReferenceLow": 12.7
+    },
+    {
+      "measurementDate": "2025-06-01",
+      "publishTime": "2025-06-01T15:45:00Z",
+      "temperature": 16.9,
+      "temperatureReferenceAverage": 14.6,
+      "temperatureReferenceHigh": 17.4,
+      "temperatureReferenceLow": 12.6
+    },
+    {
+      "measurementDate": "2025-05-31",
+      "publishTime": "2025-05-31T15:45:00Z",
+      "temperature": 18,
+      "temperatureReferenceAverage": 14.5,
+      "temperatureReferenceHigh": 17.3,
+      "temperatureReferenceLow": 12.4
+    },
+    {
+      "measurementDate": "2025-05-30",
+      "publishTime": "2025-05-30T15:45:00Z",
+      "temperature": 17.3,
+      "temperatureReferenceAverage": 14.4,
+      "temperatureReferenceHigh": 17.2,
+      "temperatureReferenceLow": 12.3
+    },
+    {
+      "measurementDate": "2025-05-29",
+      "publishTime": "2025-05-29T15:45:00Z",
+      "temperature": 16.6,
+      "temperatureReferenceAverage": 14.3,
+      "temperatureReferenceHigh": 17.1,
+      "temperatureReferenceLow": 12.2
+    },
+    {
+      "measurementDate": "2025-05-28",
+      "publishTime": "2025-05-28T15:45:00Z",
+      "temperature": 15,
+      "temperatureReferenceAverage": 14.2,
+      "temperatureReferenceHigh": 17,
+      "temperatureReferenceLow": 12.1
+    },
+    {
+      "measurementDate": "2025-05-27",
+      "publishTime": "2025-05-27T15:45:00Z",
+      "temperature": 14.5,
+      "temperatureReferenceAverage": 14.1,
+      "temperatureReferenceHigh": 16.9,
+      "temperatureReferenceLow": 12
+    },
+    {
+      "measurementDate": "2025-05-26",
+      "publishTime": "2025-05-26T15:45:00Z",
+      "temperature": 15.1,
+      "temperatureReferenceAverage": 14,
+      "temperatureReferenceHigh": 16.8,
+      "temperatureReferenceLow": 11.9
+    },
+    {
+      "measurementDate": "2025-05-25",
+      "publishTime": "2025-05-25T15:45:00Z",
+      "temperature": 15.5,
+      "temperatureReferenceAverage": 13.9,
+      "temperatureReferenceHigh": 16.7,
+      "temperatureReferenceLow": 11.7
+    },
+    {
+      "measurementDate": "2025-05-24",
+      "publishTime": "2025-05-24T15:45:00Z",
+      "temperature": 15.5,
+      "temperatureReferenceAverage": 13.8,
+      "temperatureReferenceHigh": 16.6,
+      "temperatureReferenceLow": 11.6
+    },
+    {
+      "measurementDate": "2025-05-23",
+      "publishTime": "2025-05-23T15:45:00Z",
+      "temperature": 14.2,
+      "temperatureReferenceAverage": 13.7,
+      "temperatureReferenceHigh": 16.5,
+      "temperatureReferenceLow": 11.5
+    },
+    {
+      "measurementDate": "2025-05-22",
+      "publishTime": "2025-05-22T15:45:00Z",
+      "temperature": 13.6,
+      "temperatureReferenceAverage": 13.6,
+      "temperatureReferenceHigh": 16.4,
+      "temperatureReferenceLow": 11.4
+    },
+    {
+      "measurementDate": "2025-05-21",
+      "publishTime": "2025-05-21T15:45:00Z",
+      "temperature": 14.3,
+      "temperatureReferenceAverage": 13.5,
+      "temperatureReferenceHigh": 16.3,
+      "temperatureReferenceLow": 11.2
+    },
+    {
+      "measurementDate": "2025-05-20",
+      "publishTime": "2025-05-20T15:45:00Z",
+      "temperature": 14.2,
+      "temperatureReferenceAverage": 13.4,
+      "temperatureReferenceHigh": 16.2,
+      "temperatureReferenceLow": 11.1
+    },
+    {
+      "measurementDate": "2025-05-19",
+      "publishTime": "2025-05-19T15:45:00Z",
+      "temperature": 13.5,
+      "temperatureReferenceAverage": 13.3,
+      "temperatureReferenceHigh": 16.1,
+      "temperatureReferenceLow": 11
+    },
+    {
+      "measurementDate": "2025-05-18",
+      "publishTime": "2025-05-18T15:45:00Z",
+      "temperature": 13.7,
+      "temperatureReferenceAverage": 13.2,
+      "temperatureReferenceHigh": 16,
+      "temperatureReferenceLow": 10.9
+    },
+    {
+      "measurementDate": "2025-05-17",
+      "publishTime": "2025-05-17T15:45:00Z",
+      "temperature": 13.7,
+      "temperatureReferenceAverage": 13.1,
+      "temperatureReferenceHigh": 15.9,
+      "temperatureReferenceLow": 10.8
+    },
+    {
+      "measurementDate": "2025-05-16",
+      "publishTime": "2025-05-16T15:45:00Z",
+      "temperature": 14.4,
+      "temperatureReferenceAverage": 13,
+      "temperatureReferenceHigh": 15.8,
+      "temperatureReferenceLow": 10.7
+    },
+    {
+      "measurementDate": "2025-05-15",
+      "publishTime": "2025-05-15T15:45:00Z",
+      "temperature": 14.5,
+      "temperatureReferenceAverage": 12.9,
+      "temperatureReferenceHigh": 15.7,
+      "temperatureReferenceLow": 10.5
+    },
+    {
+      "measurementDate": "2025-05-14",
+      "publishTime": "2025-05-14T15:45:00Z",
+      "temperature": 16.4,
+      "temperatureReferenceAverage": 12.8,
+      "temperatureReferenceHigh": 15.5,
+      "temperatureReferenceLow": 10.4
+    },
+    {
+      "measurementDate": "2025-05-13",
+      "publishTime": "2025-05-13T15:45:00Z",
+      "temperature": 17.5,
+      "temperatureReferenceAverage": 12.7,
+      "temperatureReferenceHigh": 15.4,
+      "temperatureReferenceLow": 10.3
+    },
+    {
+      "measurementDate": "2025-05-12",
+      "publishTime": "2025-05-12T15:45:00Z",
+      "temperature": 17.1,
+      "temperatureReferenceAverage": 12.6,
+      "temperatureReferenceHigh": 15.3,
+      "temperatureReferenceLow": 10.2
+    },
+    {
+      "measurementDate": "2025-05-11",
+      "publishTime": "2025-05-11T15:45:00Z",
+      "temperature": 16.3,
+      "temperatureReferenceAverage": 12.5,
+      "temperatureReferenceHigh": 15.2,
+      "temperatureReferenceLow": 10.1
+    },
+    {
+      "measurementDate": "2025-05-10",
+      "publishTime": "2025-05-10T15:45:00Z",
+      "temperature": 14.5,
+      "temperatureReferenceAverage": 12.4,
+      "temperatureReferenceHigh": 15.1,
+      "temperatureReferenceLow": 10
+    },
+    {
+      "measurementDate": "2025-05-09",
+      "publishTime": "2025-05-09T15:45:00Z",
+      "temperature": 12.4,
+      "temperatureReferenceAverage": 12.3,
+      "temperatureReferenceHigh": 14.9,
+      "temperatureReferenceLow": 9.8
+    },
+    {
+      "measurementDate": "2025-05-08",
+      "publishTime": "2025-05-08T15:45:00Z",
+      "temperature": 11.7,
+      "temperatureReferenceAverage": 12.2,
+      "temperatureReferenceHigh": 14.8,
+      "temperatureReferenceLow": 9.7
+    },
+    {
+      "measurementDate": "2025-05-07",
+      "publishTime": "2025-05-07T15:45:00Z",
+      "temperature": 11.8,
+      "temperatureReferenceAverage": 12.1,
+      "temperatureReferenceHigh": 14.7,
+      "temperatureReferenceLow": 9.6
+    },
+    {
+      "measurementDate": "2025-05-06",
+      "publishTime": "2025-05-06T15:45:00Z",
+      "temperature": 10.9,
+      "temperatureReferenceAverage": 11.9,
+      "temperatureReferenceHigh": 14.5,
+      "temperatureReferenceLow": 9.5
+    },
+    {
+      "measurementDate": "2025-05-05",
+      "publishTime": "2025-05-05T15:45:00Z",
+      "temperature": 11.4,
+      "temperatureReferenceAverage": 11.8,
+      "temperatureReferenceHigh": 14.4,
+      "temperatureReferenceLow": 9.4
+    },
+    {
+      "measurementDate": "2025-05-04",
+      "publishTime": "2025-05-04T15:45:00Z",
+      "temperature": 13,
+      "temperatureReferenceAverage": 11.7,
+      "temperatureReferenceHigh": 14.3,
+      "temperatureReferenceLow": 9.3
+    },
+    {
+      "measurementDate": "2025-05-03",
+      "publishTime": "2025-05-03T15:45:00Z",
+      "temperature": 15.6,
+      "temperatureReferenceAverage": 11.6,
+      "temperatureReferenceHigh": 14.1,
+      "temperatureReferenceLow": 9.2
+    },
+    {
+      "measurementDate": "2025-05-02",
+      "publishTime": "2025-05-02T15:45:00Z",
+      "temperature": 17,
+      "temperatureReferenceAverage": 11.5,
+      "temperatureReferenceHigh": 14,
+      "temperatureReferenceLow": 9.1
+    },
+    {
+      "measurementDate": "2025-05-01",
+      "publishTime": "2025-05-01T15:45:00Z",
+      "temperature": 18.6,
+      "temperatureReferenceAverage": 11.4,
+      "temperatureReferenceHigh": 13.9,
+      "temperatureReferenceLow": 9
+    },
+    {
+      "measurementDate": "2025-04-30",
+      "publishTime": "2025-04-30T15:45:00Z",
+      "temperature": 17.1,
+      "temperatureReferenceAverage": 11.3,
+      "temperatureReferenceHigh": 13.7,
+      "temperatureReferenceLow": 8.8
+    },
+    {
+      "measurementDate": "2025-04-29",
+      "publishTime": "2025-04-29T15:45:00Z",
+      "temperature": 16.1,
+      "temperatureReferenceAverage": 11.2,
+      "temperatureReferenceHigh": 13.6,
+      "temperatureReferenceLow": 8.7
+    },
+    {
+      "measurementDate": "2025-04-28",
+      "publishTime": "2025-04-28T15:45:00Z",
+      "temperature": 14.4,
+      "temperatureReferenceAverage": 11.1,
+      "temperatureReferenceHigh": 13.5,
+      "temperatureReferenceLow": 8.6
+    },
+    {
+      "measurementDate": "2025-04-27",
+      "publishTime": "2025-04-27T15:45:00Z",
+      "temperature": 13,
+      "temperatureReferenceAverage": 11,
+      "temperatureReferenceHigh": 13.4,
+      "temperatureReferenceLow": 8.5
+    },
+    {
+      "measurementDate": "2025-04-26",
+      "publishTime": "2025-04-26T15:45:00Z",
+      "temperature": 11.5,
+      "temperatureReferenceAverage": 10.9,
+      "temperatureReferenceHigh": 13.3,
+      "temperatureReferenceLow": 8.4
+    },
+    {
+      "measurementDate": "2025-04-25",
+      "publishTime": "2025-04-25T15:45:00Z",
+      "temperature": 11.1,
+      "temperatureReferenceAverage": 10.8,
+      "temperatureReferenceHigh": 13.2,
+      "temperatureReferenceLow": 8.3
+    },
+    {
+      "measurementDate": "2025-04-24",
+      "publishTime": "2025-04-24T15:45:00Z",
+      "temperature": 10.7,
+      "temperatureReferenceAverage": 10.7,
+      "temperatureReferenceHigh": 13.1,
+      "temperatureReferenceLow": 8.2
+    },
+    {
+      "measurementDate": "2025-04-23",
+      "publishTime": "2025-04-23T15:45:00Z",
+      "temperature": 11,
+      "temperatureReferenceAverage": 10.6,
+      "temperatureReferenceHigh": 13,
+      "temperatureReferenceLow": 8
+    },
+    {
+      "measurementDate": "2025-04-22",
+      "publishTime": "2025-04-22T15:45:00Z",
+      "temperature": 11.3,
+      "temperatureReferenceAverage": 10.5,
+      "temperatureReferenceHigh": 12.9,
+      "temperatureReferenceLow": 7.9
+    },
+    {
+      "measurementDate": "2025-04-21",
+      "publishTime": "2025-04-21T15:45:00Z",
+      "temperature": 10.5,
+      "temperatureReferenceAverage": 10.4,
+      "temperatureReferenceHigh": 12.8,
+      "temperatureReferenceLow": 7.8
+    },
+    {
+      "measurementDate": "2025-04-20",
+      "publishTime": "2025-04-20T15:45:00Z",
+      "temperature": 10.4,
+      "temperatureReferenceAverage": 10.3,
+      "temperatureReferenceHigh": 12.7,
+      "temperatureReferenceLow": 7.7
+    },
+    {
+      "measurementDate": "2025-04-19",
+      "publishTime": "2025-04-19T15:45:00Z",
+      "temperature": 11.3,
+      "temperatureReferenceAverage": 10.2,
+      "temperatureReferenceHigh": 12.6,
+      "temperatureReferenceLow": 7.6
+    },
+    {
+      "measurementDate": "2025-04-18",
+      "publishTime": "2025-04-18T15:45:00Z",
+      "temperature": 11,
+      "temperatureReferenceAverage": 10.1,
+      "temperatureReferenceHigh": 12.5,
+      "temperatureReferenceLow": 7.4
+    },
+    {
+      "measurementDate": "2025-04-17",
+      "publishTime": "2025-04-17T15:45:00Z",
+      "temperature": 10.4,
+      "temperatureReferenceAverage": 10,
+      "temperatureReferenceHigh": 12.4,
+      "temperatureReferenceLow": 7.3
+    },
+    {
+      "measurementDate": "2025-04-16",
+      "publishTime": "2025-04-16T15:45:00Z",
+      "temperature": 10,
+      "temperatureReferenceAverage": 9.9,
+      "temperatureReferenceHigh": 12.3,
+      "temperatureReferenceLow": 7.2
+    },
+    {
+      "measurementDate": "2025-04-15",
+      "publishTime": "2025-04-15T15:45:00Z",
+      "temperature": 11,
+      "temperatureReferenceAverage": 9.8,
+      "temperatureReferenceHigh": 12.2,
+      "temperatureReferenceLow": 7.1
+    },
+    {
+      "measurementDate": "2025-04-14",
+      "publishTime": "2025-04-14T15:45:00Z",
+      "temperature": 11.6,
+      "temperatureReferenceAverage": 9.7,
+      "temperatureReferenceHigh": 12.1,
+      "temperatureReferenceLow": 7
+    },
+    {
+      "measurementDate": "2025-04-13",
+      "publishTime": "2025-04-13T15:45:00Z",
+      "temperature": 12.1,
+      "temperatureReferenceAverage": 9.6,
+      "temperatureReferenceHigh": 12,
+      "temperatureReferenceLow": 6.9
+    },
+    {
+      "measurementDate": "2025-04-12",
+      "publishTime": "2025-04-12T15:45:00Z",
+      "temperature": 12.9,
+      "temperatureReferenceAverage": 9.6,
+      "temperatureReferenceHigh": 11.9,
+      "temperatureReferenceLow": 6.8
+    },
+    {
+      "measurementDate": "2025-04-11",
+      "publishTime": "2025-04-11T15:45:00Z",
+      "temperature": 11.4,
+      "temperatureReferenceAverage": 9.5,
+      "temperatureReferenceHigh": 11.8,
+      "temperatureReferenceLow": 6.7
+    },
+    {
+      "measurementDate": "2025-04-10",
+      "publishTime": "2025-04-10T15:45:00Z",
+      "temperature": 9.4,
+      "temperatureReferenceAverage": 9.4,
+      "temperatureReferenceHigh": 11.7,
+      "temperatureReferenceLow": 6.6
+    },
+    {
+      "measurementDate": "2025-04-09",
+      "publishTime": "2025-04-09T15:45:00Z",
+      "temperature": 9.6,
+      "temperatureReferenceAverage": 9.3,
+      "temperatureReferenceHigh": 11.6,
+      "temperatureReferenceLow": 6.5
+    },
+    {
+      "measurementDate": "2025-04-08",
+      "publishTime": "2025-04-08T15:45:00Z",
+      "temperature": 9.9,
+      "temperatureReferenceAverage": 9.3,
+      "temperatureReferenceHigh": 11.5,
+      "temperatureReferenceLow": 6.4
+    },
+    {
+      "measurementDate": "2025-04-07",
+      "publishTime": "2025-04-07T15:45:00Z",
+      "temperature": 10.1,
+      "temperatureReferenceAverage": 9.2,
+      "temperatureReferenceHigh": 11.5,
+      "temperatureReferenceLow": 6.3
+    },
+    {
+      "measurementDate": "2025-04-06",
+      "publishTime": "2025-04-06T15:45:00Z",
+      "temperature": 10.7,
+      "temperatureReferenceAverage": 9.1,
+      "temperatureReferenceHigh": 11.4,
+      "temperatureReferenceLow": 6.2
+    },
+    {
+      "measurementDate": "2025-04-05",
+      "publishTime": "2025-04-05T15:45:00Z",
+      "temperature": 11.2,
+      "temperatureReferenceAverage": 9,
+      "temperatureReferenceHigh": 11.3,
+      "temperatureReferenceLow": 6.1
+    },
+    {
+      "measurementDate": "2025-04-04",
+      "publishTime": "2025-04-04T15:45:00Z",
+      "temperature": 12.3,
+      "temperatureReferenceAverage": 8.9,
+      "temperatureReferenceHigh": 11.2,
+      "temperatureReferenceLow": 6
+    },
+    {
+      "measurementDate": "2025-04-03",
+      "publishTime": "2025-04-03T15:45:00Z",
+      "temperature": 11.4,
+      "temperatureReferenceAverage": 8.9,
+      "temperatureReferenceHigh": 11.1,
+      "temperatureReferenceLow": 6
+    },
+    {
+      "measurementDate": "2025-04-02",
+      "publishTime": "2025-04-02T15:45:00Z",
+      "temperature": 10.6,
+      "temperatureReferenceAverage": 8.8,
+      "temperatureReferenceHigh": 11,
+      "temperatureReferenceLow": 5.9
+    },
+    {
+      "measurementDate": "2025-04-01",
+      "publishTime": "2025-04-01T15:45:00Z",
+      "temperature": 10.1,
+      "temperatureReferenceAverage": 8.7,
+      "temperatureReferenceHigh": 11,
+      "temperatureReferenceLow": 5.8
+    },
+    {
+      "measurementDate": "2025-03-31",
+      "publishTime": "2025-03-31T15:45:00Z",
+      "temperature": 10.6,
+      "temperatureReferenceAverage": 8.6,
+      "temperatureReferenceHigh": 10.9,
+      "temperatureReferenceLow": 5.7
+    },
+    {
+      "measurementDate": "2025-03-30",
+      "publishTime": "2025-03-30T15:45:00Z",
+      "temperature": 10.4,
+      "temperatureReferenceAverage": 8.6,
+      "temperatureReferenceHigh": 10.8,
+      "temperatureReferenceLow": 5.6
+    },
+    {
+      "measurementDate": "2025-03-29",
+      "publishTime": "2025-03-29T16:45:00Z",
+      "temperature": 10.3,
+      "temperatureReferenceAverage": 9.6,
+      "temperatureReferenceHigh": 11.7,
+      "temperatureReferenceLow": 6.4
+    },
+    {
+      "measurementDate": "2025-03-28",
+      "publishTime": "2025-03-28T16:45:00Z",
+      "temperature": 10.8,
+      "temperatureReferenceAverage": 9.5,
+      "temperatureReferenceHigh": 11.6,
+      "temperatureReferenceLow": 6.3
+    },
+    {
+      "measurementDate": "2025-03-27",
+      "publishTime": "2025-03-27T16:45:00Z",
+      "temperature": 11.2,
+      "temperatureReferenceAverage": 9.4,
+      "temperatureReferenceHigh": 11.6,
+      "temperatureReferenceLow": 6.2
+    },
+    {
+      "measurementDate": "2025-03-26",
+      "publishTime": "2025-03-26T16:45:00Z",
+      "temperature": 10.7,
+      "temperatureReferenceAverage": 9.3,
+      "temperatureReferenceHigh": 11.5,
+      "temperatureReferenceLow": 6.1
+    },
+    {
+      "measurementDate": "2025-03-25",
+      "publishTime": "2025-03-25T16:45:00Z",
+      "temperature": 10.5,
+      "temperatureReferenceAverage": 9.2,
+      "temperatureReferenceHigh": 11.4,
+      "temperatureReferenceLow": 6
+    },
+    {
+      "measurementDate": "2025-03-24",
+      "publishTime": "2025-03-24T16:45:00Z",
+      "temperature": 9.9,
+      "temperatureReferenceAverage": 9.1,
+      "temperatureReferenceHigh": 11.3,
+      "temperatureReferenceLow": 5.9
+    },
+    {
+      "measurementDate": "2025-03-23",
+      "publishTime": "2025-03-23T16:45:00Z",
+      "temperature": 11.2,
+      "temperatureReferenceAverage": 9,
+      "temperatureReferenceHigh": 11.2,
+      "temperatureReferenceLow": 5.8
+    },
+    {
+      "measurementDate": "2025-03-22",
+      "publishTime": "2025-03-22T16:45:00Z",
+      "temperature": 12.4,
+      "temperatureReferenceAverage": 8.9,
+      "temperatureReferenceHigh": 11.1,
+      "temperatureReferenceLow": 5.7
+    },
+    {
+      "measurementDate": "2025-03-21",
+      "publishTime": "2025-03-21T16:45:00Z",
+      "temperature": 11.7,
+      "temperatureReferenceAverage": 8.8,
+      "temperatureReferenceHigh": 11,
+      "temperatureReferenceLow": 5.6
+    },
+    {
+      "measurementDate": "2025-03-20",
+      "publishTime": "2025-03-20T16:45:00Z",
+      "temperature": 10.6,
+      "temperatureReferenceAverage": 8.7,
+      "temperatureReferenceHigh": 10.9,
+      "temperatureReferenceLow": 5.5
+    },
+    {
+      "measurementDate": "2025-03-19",
+      "publishTime": "2025-03-19T16:45:00Z",
+      "temperature": 7.5,
+      "temperatureReferenceAverage": 8.6,
+      "temperatureReferenceHigh": 10.8,
+      "temperatureReferenceLow": 5.4
+    },
+    {
+      "measurementDate": "2025-03-18",
+      "publishTime": "2025-03-18T16:45:00Z",
+      "temperature": 6.9,
+      "temperatureReferenceAverage": 8.5,
+      "temperatureReferenceHigh": 10.7,
+      "temperatureReferenceLow": 5.3
+    },
+    {
+      "measurementDate": "2025-03-17",
+      "publishTime": "2025-03-17T16:45:00Z",
+      "temperature": 6.2,
+      "temperatureReferenceAverage": 8.4,
+      "temperatureReferenceHigh": 10.6,
+      "temperatureReferenceLow": 5.2
+    },
+    {
+      "measurementDate": "2025-03-16",
+      "publishTime": "2025-03-16T16:45:00Z",
+      "temperature": 6.2,
+      "temperatureReferenceAverage": 8.3,
+      "temperatureReferenceHigh": 10.5,
+      "temperatureReferenceLow": 5.1
+    },
+    {
+      "measurementDate": "2025-03-15",
+      "publishTime": "2025-03-15T16:45:00Z",
+      "temperature": 5.9,
+      "temperatureReferenceAverage": 8.2,
+      "temperatureReferenceHigh": 10.3,
+      "temperatureReferenceLow": 5
+    },
+    {
+      "measurementDate": "2025-03-14",
+      "publishTime": "2025-03-14T16:45:00Z",
+      "temperature": 5.9,
+      "temperatureReferenceAverage": 8,
+      "temperatureReferenceHigh": 10.2,
+      "temperatureReferenceLow": 4.9
+    },
+    {
+      "measurementDate": "2025-03-13",
+      "publishTime": "2025-03-13T16:45:00Z",
+      "temperature": 5.9,
+      "temperatureReferenceAverage": 7.9,
+      "temperatureReferenceHigh": 10.1,
+      "temperatureReferenceLow": 4.8
+    },
+    {
+      "measurementDate": "2025-03-12",
+      "publishTime": "2025-03-12T16:45:00Z",
+      "temperature": 6.9,
+      "temperatureReferenceAverage": 7.8,
+      "temperatureReferenceHigh": 10,
+      "temperatureReferenceLow": 4.7
+    },
+    {
+      "measurementDate": "2025-03-11",
+      "publishTime": "2025-03-11T16:45:00Z",
+      "temperature": 8.2,
+      "temperatureReferenceAverage": 7.7,
+      "temperatureReferenceHigh": 9.9,
+      "temperatureReferenceLow": 4.6
+    },
+    {
+      "measurementDate": "2025-03-10",
+      "publishTime": "2025-03-10T16:45:00Z",
+      "temperature": 10.2,
+      "temperatureReferenceAverage": 7.5,
+      "temperatureReferenceHigh": 9.8,
+      "temperatureReferenceLow": 4.5
+    },
+    {
+      "measurementDate": "2025-03-09",
+      "publishTime": "2025-03-09T16:45:00Z",
+      "temperature": 11.5,
+      "temperatureReferenceAverage": 7.4,
+      "temperatureReferenceHigh": 9.7,
+      "temperatureReferenceLow": 4.3
+    },
+    {
+      "measurementDate": "2025-03-08",
+      "publishTime": "2025-03-08T16:45:00Z",
+      "temperature": 11.7,
+      "temperatureReferenceAverage": 7.3,
+      "temperatureReferenceHigh": 9.5,
+      "temperatureReferenceLow": 4.2
+    },
+    {
+      "measurementDate": "2025-03-07",
+      "publishTime": "2025-03-07T16:45:00Z",
+      "temperature": 10.5,
+      "temperatureReferenceAverage": 7.2,
+      "temperatureReferenceHigh": 9.5,
+      "temperatureReferenceLow": 4.1
+    },
+    {
+      "measurementDate": "2025-03-06",
+      "publishTime": "2025-03-06T16:45:00Z",
+      "temperature": 9.1,
+      "temperatureReferenceAverage": 7.1,
+      "temperatureReferenceHigh": 9.4,
+      "temperatureReferenceLow": 4
+    },
+    {
+      "measurementDate": "2025-03-05",
+      "publishTime": "2025-03-05T16:45:00Z",
+      "temperature": 7.3,
+      "temperatureReferenceAverage": 7,
+      "temperatureReferenceHigh": 9.3,
+      "temperatureReferenceLow": 3.9
+    },
+    {
+      "measurementDate": "2025-03-04",
+      "publishTime": "2025-03-04T16:45:00Z",
+      "temperature": 7.1,
+      "temperatureReferenceAverage": 7,
+      "temperatureReferenceHigh": 9.2,
+      "temperatureReferenceLow": 3.8
+    },
+    {
+      "measurementDate": "2025-03-03",
+      "publishTime": "2025-03-03T16:45:00Z",
+      "temperature": 6.8,
+      "temperatureReferenceAverage": 6.9,
+      "temperatureReferenceHigh": 9.2,
+      "temperatureReferenceLow": 3.7
+    },
+    {
+      "measurementDate": "2025-03-02",
+      "publishTime": "2025-03-02T16:45:00Z",
+      "temperature": 6.1,
+      "temperatureReferenceAverage": 6.9,
+      "temperatureReferenceHigh": 9.1,
+      "temperatureReferenceLow": 3.6
+    },
+    {
+      "measurementDate": "2025-03-01",
+      "publishTime": "2025-03-01T16:45:00Z",
+      "temperature": 5.7,
+      "temperatureReferenceAverage": 6.8,
+      "temperatureReferenceHigh": 9.1,
+      "temperatureReferenceLow": 3.5
+    },
+    {
+      "measurementDate": "2025-02-28",
+      "publishTime": "2025-02-28T16:45:00Z",
+      "temperature": 6.5,
+      "temperatureReferenceAverage": 6.8,
+      "temperatureReferenceHigh": 9.1,
+      "temperatureReferenceLow": 3.4
+    },
+    {
+      "measurementDate": "2025-02-27",
+      "publishTime": "2025-02-27T16:45:00Z",
+      "temperature": 7.3,
+      "temperatureReferenceAverage": 6.8,
+      "temperatureReferenceHigh": 9.1,
+      "temperatureReferenceLow": 3.3
+    },
+    {
+      "measurementDate": "2025-02-26",
+      "publishTime": "2025-02-26T16:45:00Z",
+      "temperature": 7.8,
+      "temperatureReferenceAverage": 6.8,
+      "temperatureReferenceHigh": 9,
+      "temperatureReferenceLow": 3.3
+    },
+    {
+      "measurementDate": "2025-02-25",
+      "publishTime": "2025-02-25T16:45:00Z",
+      "temperature": 9.2,
+      "temperatureReferenceAverage": 6.8,
+      "temperatureReferenceHigh": 9,
+      "temperatureReferenceLow": 3.2
+    },
+    {
+      "measurementDate": "2025-02-24",
+      "publishTime": "2025-02-24T16:45:00Z",
+      "temperature": 10.2,
+      "temperatureReferenceAverage": 6.7,
+      "temperatureReferenceHigh": 9,
+      "temperatureReferenceLow": 3.2
+    },
+    {
+      "measurementDate": "2025-02-23",
+      "publishTime": "2025-02-23T16:45:00Z",
+      "temperature": 10.1,
+      "temperatureReferenceAverage": 6.7,
+      "temperatureReferenceHigh": 9,
+      "temperatureReferenceLow": 3.1
+    },
+    {
+      "measurementDate": "2025-02-22",
+      "publishTime": "2025-02-22T16:45:00Z",
+      "temperature": 10.5,
+      "temperatureReferenceAverage": 6.7,
+      "temperatureReferenceHigh": 9,
+      "temperatureReferenceLow": 3.1
+    },
+    {
+      "measurementDate": "2025-02-21",
+      "publishTime": "2025-02-21T16:45:00Z",
+      "temperature": 10.8,
+      "temperatureReferenceAverage": 6.7,
+      "temperatureReferenceHigh": 9,
+      "temperatureReferenceLow": 3
+    },
+    {
+      "measurementDate": "2025-02-20",
+      "publishTime": "2025-02-20T16:45:00Z",
+      "temperature": 8,
+      "temperatureReferenceAverage": 6.6,
+      "temperatureReferenceHigh": 9,
+      "temperatureReferenceLow": 3
+    },
+    {
+      "measurementDate": "2025-02-19",
+      "publishTime": "2025-02-19T16:45:00Z",
+      "temperature": 3.7,
+      "temperatureReferenceAverage": 6.6,
+      "temperatureReferenceHigh": 9,
+      "temperatureReferenceLow": 3
+    },
+    {
+      "measurementDate": "2025-02-18",
+      "publishTime": "2025-02-18T16:45:00Z",
+      "temperature": 3.2,
+      "temperatureReferenceAverage": 6.6,
+      "temperatureReferenceHigh": 8.9,
+      "temperatureReferenceLow": 2.9
+    },
+    {
+      "measurementDate": "2025-02-17",
+      "publishTime": "2025-02-17T16:45:00Z",
+      "temperature": 3.3,
+      "temperatureReferenceAverage": 6.5,
+      "temperatureReferenceHigh": 8.9,
+      "temperatureReferenceLow": 2.9
+    },
+    {
+      "measurementDate": "2025-02-16",
+      "publishTime": "2025-02-16T16:45:00Z",
+      "temperature": 3.6,
+      "temperatureReferenceAverage": 6.4,
+      "temperatureReferenceHigh": 8.9,
+      "temperatureReferenceLow": 2.8
+    },
+    {
+      "measurementDate": "2025-02-15",
+      "publishTime": "2025-02-15T16:45:00Z",
+      "temperature": 3.7,
+      "temperatureReferenceAverage": 6.4,
+      "temperatureReferenceHigh": 8.9,
+      "temperatureReferenceLow": 2.7
+    },
+    {
+      "measurementDate": "2025-02-14",
+      "publishTime": "2025-02-14T16:45:00Z",
+      "temperature": 3.7,
+      "temperatureReferenceAverage": 6.3,
+      "temperatureReferenceHigh": 8.8,
+      "temperatureReferenceLow": 2.7
+    },
+    {
+      "measurementDate": "2025-02-13",
+      "publishTime": "2025-02-13T16:45:00Z",
+      "temperature": 4,
+      "temperatureReferenceAverage": 6.3,
+      "temperatureReferenceHigh": 8.8,
+      "temperatureReferenceLow": 2.6
+    },
+    {
+      "measurementDate": "2025-02-12",
+      "publishTime": "2025-02-12T16:45:00Z",
+      "temperature": 4.2,
+      "temperatureReferenceAverage": 6.2,
+      "temperatureReferenceHigh": 8.8,
+      "temperatureReferenceLow": 2.5
+    },
+    {
+      "measurementDate": "2025-02-11",
+      "publishTime": "2025-02-11T16:45:00Z",
+      "temperature": 4.2,
+      "temperatureReferenceAverage": 6.2,
+      "temperatureReferenceHigh": 8.8,
+      "temperatureReferenceLow": 2.5
+    },
+    {
+      "measurementDate": "2025-02-10",
+      "publishTime": "2025-02-10T16:45:00Z",
+      "temperature": 4.3,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 8.8,
+      "temperatureReferenceLow": 2.4
+    },
+    {
+      "measurementDate": "2025-02-09",
+      "publishTime": "2025-02-09T16:45:00Z",
+      "temperature": 4.5,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 8.8,
+      "temperatureReferenceLow": 2.3
+    },
+    {
+      "measurementDate": "2025-02-08",
+      "publishTime": "2025-02-08T17:27:00Z",
+      "temperature": 4,
+      "temperatureReferenceAverage": 6,
+      "temperatureReferenceHigh": 8.8,
+      "temperatureReferenceLow": 2.3
+    },
+    {
+      "measurementDate": "2025-02-07",
+      "publishTime": "2025-02-07T16:45:00Z",
+      "temperature": 4.4,
+      "temperatureReferenceAverage": 6,
+      "temperatureReferenceHigh": 8.7,
+      "temperatureReferenceLow": 2.2
+    },
+    {
+      "measurementDate": "2025-02-06",
+      "publishTime": "2025-02-06T16:45:00Z",
+      "temperature": 4.9,
+      "temperatureReferenceAverage": 5.9,
+      "temperatureReferenceHigh": 8.7,
+      "temperatureReferenceLow": 2.2
+    },
+    {
+      "measurementDate": "2025-02-05",
+      "publishTime": "2025-02-05T16:45:00Z",
+      "temperature": 7,
+      "temperatureReferenceAverage": 5.9,
+      "temperatureReferenceHigh": 8.7,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-02-04",
+      "publishTime": "2025-02-04T16:45:00Z",
+      "temperature": 7.8,
+      "temperatureReferenceAverage": 5.8,
+      "temperatureReferenceHigh": 8.7,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-02-03",
+      "publishTime": "2025-02-03T16:45:00Z",
+      "temperature": 6.1,
+      "temperatureReferenceAverage": 5.8,
+      "temperatureReferenceHigh": 8.7,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-02-02",
+      "publishTime": "2025-02-02T16:45:00Z",
+      "temperature": 5.3,
+      "temperatureReferenceAverage": 5.7,
+      "temperatureReferenceHigh": 8.6,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-02-01",
+      "publishTime": "2025-02-01T16:45:00Z",
+      "temperature": 5.5,
+      "temperatureReferenceAverage": 5.7,
+      "temperatureReferenceHigh": 8.6,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-31",
+      "publishTime": "2025-01-31T16:45:00Z",
+      "temperature": 5.9,
+      "temperatureReferenceAverage": 5.6,
+      "temperatureReferenceHigh": 8.6,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-30",
+      "publishTime": "2025-01-30T16:45:00Z",
+      "temperature": 5.5,
+      "temperatureReferenceAverage": 5.6,
+      "temperatureReferenceHigh": 8.5,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-29",
+      "publishTime": "2025-01-29T16:45:00Z",
+      "temperature": 6.3,
+      "temperatureReferenceAverage": 5.5,
+      "temperatureReferenceHigh": 8.5,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-28",
+      "publishTime": "2025-01-28T16:45:00Z",
+      "temperature": 6.8,
+      "temperatureReferenceAverage": 5.5,
+      "temperatureReferenceHigh": 8.5,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-27",
+      "publishTime": "2025-01-27T16:45:00Z",
+      "temperature": 5.9,
+      "temperatureReferenceAverage": 5.5,
+      "temperatureReferenceHigh": 8.4,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-26",
+      "publishTime": "2025-01-26T16:45:00Z",
+      "temperature": 5.3,
+      "temperatureReferenceAverage": 5.4,
+      "temperatureReferenceHigh": 8.4,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-25",
+      "publishTime": "2025-01-25T16:45:00Z",
+      "temperature": 5.7,
+      "temperatureReferenceAverage": 5.4,
+      "temperatureReferenceHigh": 8.4,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-24",
+      "publishTime": "2025-01-24T16:45:00Z",
+      "temperature": 6.7,
+      "temperatureReferenceAverage": 5.4,
+      "temperatureReferenceHigh": 8.4,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-23",
+      "publishTime": "2025-01-23T16:45:00Z",
+      "temperature": 4.4,
+      "temperatureReferenceAverage": 5.4,
+      "temperatureReferenceHigh": 8.4,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-22",
+      "publishTime": "2025-01-22T16:45:00Z",
+      "temperature": 3.6,
+      "temperatureReferenceAverage": 5.4,
+      "temperatureReferenceHigh": 8.4,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-21",
+      "publishTime": "2025-01-21T16:45:00Z",
+      "temperature": 4.4,
+      "temperatureReferenceAverage": 5.4,
+      "temperatureReferenceHigh": 8.4,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-20",
+      "publishTime": "2025-01-20T16:45:00Z",
+      "temperature": 3.8,
+      "temperatureReferenceAverage": 5.4,
+      "temperatureReferenceHigh": 8.4,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-19",
+      "publishTime": "2025-01-19T16:45:00Z",
+      "temperature": 3.5,
+      "temperatureReferenceAverage": 5.5,
+      "temperatureReferenceHigh": 8.4,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-18",
+      "publishTime": "2025-01-18T16:45:00Z",
+      "temperature": 4.4,
+      "temperatureReferenceAverage": 5.5,
+      "temperatureReferenceHigh": 8.4,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-17",
+      "publishTime": "2025-01-17T16:45:00Z",
+      "temperature": 5.9,
+      "temperatureReferenceAverage": 5.6,
+      "temperatureReferenceHigh": 8.4,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-16",
+      "publishTime": "2025-01-16T16:45:00Z",
+      "temperature": 5.5,
+      "temperatureReferenceAverage": 5.6,
+      "temperatureReferenceHigh": 8.5,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-15",
+      "publishTime": "2025-01-15T16:45:00Z",
+      "temperature": 6.8,
+      "temperatureReferenceAverage": 5.6,
+      "temperatureReferenceHigh": 8.5,
+      "temperatureReferenceLow": 2.1
+    },
+    {
+      "measurementDate": "2025-01-14",
+      "publishTime": "2025-01-14T16:45:00Z",
+      "temperature": 5.4,
+      "temperatureReferenceAverage": 5.7,
+      "temperatureReferenceHigh": 8.5,
+      "temperatureReferenceLow": 2
+    },
+    {
+      "measurementDate": "2025-01-13",
+      "publishTime": "2025-01-13T16:45:00Z",
+      "temperature": 2.7,
+      "temperatureReferenceAverage": 5.7,
+      "temperatureReferenceHigh": 8.6,
+      "temperatureReferenceLow": 2
+    },
+    {
+      "measurementDate": "2025-01-12",
+      "publishTime": "2025-01-12T16:45:00Z",
+      "temperature": 0.1,
+      "temperatureReferenceAverage": 5.8,
+      "temperatureReferenceHigh": 8.6,
+      "temperatureReferenceLow": 2
+    },
+    {
+      "measurementDate": "2025-01-11",
+      "publishTime": "2025-01-11T16:45:00Z",
+      "temperature": -1.2,
+      "temperatureReferenceAverage": 5.8,
+      "temperatureReferenceHigh": 8.7,
+      "temperatureReferenceLow": 1.9
+    },
+    {
+      "measurementDate": "2025-01-10",
+      "publishTime": "2025-01-10T16:45:00Z",
+      "temperature": -0.4,
+      "temperatureReferenceAverage": 5.9,
+      "temperatureReferenceHigh": 8.7,
+      "temperatureReferenceLow": 1.8
+    },
+    {
+      "measurementDate": "2025-01-09",
+      "publishTime": "2025-01-09T16:45:00Z",
+      "temperature": 0.8,
+      "temperatureReferenceAverage": 5.9,
+      "temperatureReferenceHigh": 8.7,
+      "temperatureReferenceLow": 1.8
+    },
+    {
+      "measurementDate": "2025-01-08",
+      "publishTime": "2025-01-08T16:45:00Z",
+      "temperature": 1.5,
+      "temperatureReferenceAverage": 5.9,
+      "temperatureReferenceHigh": 8.7,
+      "temperatureReferenceLow": 1.7
+    },
+    {
+      "measurementDate": "2025-01-07",
+      "publishTime": "2025-01-07T16:45:00Z",
+      "temperature": 3,
+      "temperatureReferenceAverage": 6,
+      "temperatureReferenceHigh": 8.8,
+      "temperatureReferenceLow": 1.7
+    },
+    {
+      "measurementDate": "2025-01-06",
+      "publishTime": "2025-01-06T16:45:00Z",
+      "temperature": 3.6,
+      "temperatureReferenceAverage": 6,
+      "temperatureReferenceHigh": 8.8,
+      "temperatureReferenceLow": 1.7
+    },
+    {
+      "measurementDate": "2025-01-05",
+      "publishTime": "2025-01-05T16:45:00Z",
+      "temperature": 3.6,
+      "temperatureReferenceAverage": 6,
+      "temperatureReferenceHigh": 8.8,
+      "temperatureReferenceLow": 1.6
+    },
+    {
+      "measurementDate": "2025-01-04",
+      "publishTime": "2025-01-04T16:45:00Z",
+      "temperature": 2.3,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 8.9,
+      "temperatureReferenceLow": 1.6
+    },
+    {
+      "measurementDate": "2025-01-03",
+      "publishTime": "2025-01-03T16:45:00Z",
+      "temperature": 3.6,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 8.9,
+      "temperatureReferenceLow": 1.6
+    },
+    {
+      "measurementDate": "2025-01-02",
+      "publishTime": "2025-01-02T16:45:00Z",
+      "temperature": 5,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 8.9,
+      "temperatureReferenceLow": 1.6
+    },
+    {
+      "measurementDate": "2025-01-01",
+      "publishTime": "2025-01-01T16:45:00Z",
+      "temperature": 8.5,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 8.9,
+      "temperatureReferenceLow": 1.6
+    }
+  ]
+}

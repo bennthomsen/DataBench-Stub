@@ -1,0 +1,130 @@
+{% extends "base.html" %}
+
+{% block title %}Upload Temperature Data - Stub{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="{% url 'core:home' %}">Home</a></li>
+                <li class="breadcrumb-item"><a href="{% url 'temperature:file_list' %}">Temperature Data</a></li>
+                <li class="breadcrumb-item active">Upload</li>
+            </ol>
+        </nav>
+        
+        <h1 class="mb-4">
+            <i class="fas fa-upload me-2"></i>Upload Temperature Data
+        </h1>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-lg-8">
+        <div class="card">
+            <div class="card-header">
+                <h3>
+                    <i class="fas fa-file-upload text-primary"></i>
+                    Upload JSON File
+                </h3>
+            </div>
+            <div class="card-body">
+                <form method="post" enctype="multipart/form-data">
+                    {% csrf_token %}
+                    
+                    <div class="mb-3">
+                        <label for="id_name" class="form-label">
+                            <strong>Name</strong> <span class="text-danger">*</span>
+                        </label>
+                        {{ form.name }}
+                        {% if form.name.errors %}
+                        <div class="text-danger mt-1">
+                            {% for error in form.name.errors %}{{ error }}{% endfor %}
+                        </div>
+                        {% endif %}
+                        <div class="form-text">
+                            A descriptive name for this data file (e.g., "UK Temperature 2025")
+                        </div>
+                    </div>
+                    
+                    <div class="mb-3">
+                        <label for="id_description" class="form-label">
+                            <strong>Description</strong>
+                        </label>
+                        {{ form.description }}
+                        {% if form.description.errors %}
+                        <div class="text-danger mt-1">
+                            {% for error in form.description.errors %}{{ error }}{% endfor %}
+                        </div>
+                        {% endif %}
+                        <div class="form-text">
+                            Optional description or notes about this data file
+                        </div>
+                    </div>
+                    
+                    <div class="mb-4">
+                        <label for="id_data_file" class="form-label">
+                            <strong>Data File</strong> <span class="text-danger">*</span>
+                        </label>
+                        {{ form.data_file }}
+                        {% if form.data_file.errors %}
+                        <div class="text-danger mt-1">
+                            {% for error in form.data_file.errors %}{{ error }}{% endfor %}
+                        </div>
+                        {% endif %}
+                        <div class="form-text">
+                            Upload a JSON file containing temperature data (max 10MB)
+                        </div>
+                    </div>
+                    
+                    <div class="d-flex gap-2">
+                        <button type="submit" class="btn btn-primary">
+                            <i class="fas fa-upload me-2"></i>Upload & Parse
+                        </button>
+                        <a href="{% url 'temperature:file_list' %}" class="btn btn-outline-secondary">
+                            Cancel
+                        </a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+    
+    <div class="col-lg-4">
+        <div class="card">
+            <div class="card-header">
+                <h3>
+                    <i class="fas fa-info-circle text-info"></i>
+                    Expected Format
+                </h3>
+            </div>
+            <div class="card-body">
+                <p class="mb-2">The JSON file should have the following structure:</p>
+                <pre class="bg-light p-3 rounded" style="font-size: 0.8rem;"><code>{
+  "metadata": { ... },
+  "data": [
+    {
+      "measurementDate": "2025-12-31",
+      "publishTime": "2025-12-31T16:45:00Z",
+      "temperature": 2.7,
+      "temperatureReferenceAverage": 6.1,
+      "temperatureReferenceHigh": 9,
+      "temperatureReferenceLow": 1.6
+    },
+    ...
+  ]
+}</code></pre>
+                <h6 class="mt-3">Required Fields:</h6>
+                <ul class="mb-0">
+                    <li><code>measurementDate</code> - Date (YYYY-MM-DD)</li>
+                    <li><code>publishTime</code> - ISO timestamp</li>
+                    <li><code>temperature</code> - Actual temp (°C)</li>
+                    <li><code>temperatureReferenceAverage</code></li>
+                    <li><code>temperatureReferenceHigh</code></li>
+                    <li><code>temperatureReferenceLow</code></li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}

@@ -1,0 +1,3 @@
+# This directory is for static files (CSS, JS, images)
+# Plotly.js can be downloaded and placed here for offline use:
+# https://cdn.plot.ly/plotly-2.32.0.min.js -> stub/static/js/plotly.min.js

@@ -1,0 +1,1 @@
+"""Migrations package for temperature app."""

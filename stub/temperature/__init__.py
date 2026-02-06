@@ -1,0 +1,1 @@
+"""Temperature app for Stub - handles UK temperature data upload and visualization."""

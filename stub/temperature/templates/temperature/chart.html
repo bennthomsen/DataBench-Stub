@@ -1,0 +1,166 @@
+{% extends "base.html" %}
+{% load static %}
+
+{% block title %}{{ data_file.name }} - Temperature Chart - Stub{% endblock %}
+
+{% block content %}
+<div class="row">
+    <div class="col-12">
+        <nav aria-label="breadcrumb">
+            <ol class="breadcrumb">
+                <li class="breadcrumb-item"><a href="{% url 'core:home' %}">Home</a></li>
+                <li class="breadcrumb-item"><a href="{% url 'temperature:file_list' %}">Temperature Data</a></li>
+                <li class="breadcrumb-item active">{{ data_file.name }}</li>
+            </ol>
+        </nav>
+        
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1>
+                <i class="fas fa-chart-line me-2"></i>{{ data_file.name }}
+            </h1>
+            <div>
+                <a href="{% url 'temperature:file_list' %}" class="btn btn-outline-secondary">
+                    <i class="fas fa-arrow-left me-2"></i>Back to List
+                </a>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Statistics Cards -->
+{% if stats %}
+<div class="row mb-4">
+    <div class="col-md-3 col-sm-6">
+        <div class="card text-center">
+            <div class="card-body py-3">
+                <h4 class="text-primary mb-0">{{ stats.reading_count }}</h4>
+                <small class="text-muted">Total Readings</small>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3 col-sm-6">
+        <div class="card text-center">
+            <div class="card-body py-3">
+                <h4 class="text-danger mb-0">{{ stats.max_temp|floatformat:1 }}°C</h4>
+                <small class="text-muted">Maximum</small>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3 col-sm-6">
+        <div class="card text-center">
+            <div class="card-body py-3">
+                <h4 class="text-info mb-0">{{ stats.avg_temp|floatformat:1 }}°C</h4>
+                <small class="text-muted">Average</small>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-3 col-sm-6">
+        <div class="card text-center">
+            <div class="card-body py-3">
+                <h4 class="text-primary mb-0">{{ stats.min_temp|floatformat:1 }}°C</h4>
+                <small class="text-muted">Minimum</small>
+            </div>
+        </div>
+    </div>
+</div>
+{% endif %}
+
+<!-- Chart -->
+<div class="row">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h3>
+                    <i class="fas fa-temperature-high text-danger"></i>
+                    Temperature vs Date
+                </h3>
+            </div>
+            <div class="card-body">
+                <div id="temperature-chart" style="width: 100%; height: 500px;"></div>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- File Info -->
+<div class="row mt-4">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h3>
+                    <i class="fas fa-info-circle text-info"></i>
+                    File Information
+                </h3>
+            </div>
+            <div class="card-body">
+                <table class="table table-sm mb-0">
+                    <tr>
+                        <th style="width: 40%;">Name</th>
+                        <td>{{ data_file.name }}</td>
+                    </tr>
+                    <tr>
+                        <th>Uploaded</th>
+                        <td>{{ data_file.uploaded_at|date:"M d, Y H:i" }}</td>
+                    </tr>
+                    {% if stats %}
+                    <tr>
+                        <th>Date Range</th>
+                        <td>{{ stats.date_range_start }} to {{ stats.date_range_end }}</td>
+                    </tr>
+                    {% endif %}
+                    <tr>
+                        <th>Description</th>
+                        <td>{{ data_file.description|default:"No description" }}</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h3>
+                    <i class="fas fa-chart-bar text-success"></i>
+                    Legend
+                </h3>
+            </div>
+            <div class="card-body">
+                <ul class="list-unstyled mb-0">
+                    <li class="mb-2">
+                        <span style="display: inline-block; width: 20px; height: 3px; background: #667eea; margin-right: 10px;"></span>
+                        <strong>Actual Temperature</strong> - Measured temperature values
+                    </li>
+                    <li class="mb-2">
+                        <span style="display: inline-block; width: 20px; height: 3px; background: rgba(100, 100, 100, 0.5); margin-right: 10px; border-style: dashed;"></span>
+                        <strong>Reference Average</strong> - Historical average
+                    </li>
+                    <li class="mb-2">
+                        <span style="display: inline-block; width: 20px; height: 10px; background: rgba(173, 216, 230, 0.3); margin-right: 10px;"></span>
+                        <strong>Reference Range</strong> - Historical high/low band
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+{% endblock %}
+
+{% block extra_js %}
+<!-- Plotly.js - Load from CDN (can be replaced with local file) -->
+<script src="https://cdn.plot.ly/plotly-2.32.0.min.js"></script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Parse the plot data from Django
+    var plotData = {{ plot_json|safe }};
+    
+    // Render the plot
+    Plotly.newPlot('temperature-chart', plotData.data, plotData.layout, {
+        responsive: true,
+        displayModeBar: true,
+        modeBarButtonsToRemove: ['lasso2d', 'select2d'],
+        displaylogo: false
+    });
+});
+</script>
+{% endblock %}
