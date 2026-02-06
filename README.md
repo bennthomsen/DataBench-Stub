@@ -1,4 +1,4 @@
-# Stub - Simplified Django Data Visualization Framework
+# DataBench Stub - Simplified Django Data Visualization Framework
 
 DataBench-Stub is a lightweight Django-based web application framework for data management, analysis and visualization. It provides a simple setup with:
 
@@ -110,6 +110,8 @@ Stub/
 ```
 
 ## Usage
+
+The data for this demo was obtained from: https://bmrs.elexon.co.uk/api-documentation
 
 ### Uploading Temperature Data
 
