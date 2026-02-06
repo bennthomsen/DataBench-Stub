@@ -1,0 +1,1 @@
+Can you add a new App similar to the temperature App that allows the user to upload Electricity Generation data for the UK. The data file format is in @"/Generation 2025.json"  and provide a plot that shows the data generation mix vs date.
