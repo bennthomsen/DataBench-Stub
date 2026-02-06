@@ -1,0 +1,34 @@
+<!-- Upload Spinner Modal -->
+<div class="modal fade" id="uploadSpinnerModal" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="uploadSpinnerModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-dialog-centered">
+        <div class="modal-content">
+            <div class="modal-body text-center py-5">
+                <div class="upload-spinner mb-4">
+                    <div class="spinner-border text-primary" role="status" style="width: 3rem; height: 3rem;">
+                        <span class="visually-hidden">Loading...</span>
+                    </div>
+                </div>
+                <h5 class="mb-2" id="uploadSpinnerModalLabel">
+                    {{ upload_spinner_message|default:"Uploading and processing..." }}
+                </h5>
+                <p class="text-muted mb-0">Please wait while your file is being processed.</p>
+            </div>
+        </div>
+    </div>
+</div>
+
+<!-- Upload Spinner JavaScript -->
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    // Find all forms with the 'upload-form' class
+    const uploadForms = document.querySelectorAll('form.upload-form');
+    
+    uploadForms.forEach(function(form) {
+        form.addEventListener('submit', function(e) {
+            // Show the spinner modal
+            const spinnerModal = new bootstrap.Modal(document.getElementById('uploadSpinnerModal'));
+            spinnerModal.show();
+        });
+    });
+});
+</script>

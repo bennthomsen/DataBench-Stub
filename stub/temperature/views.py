@@ -205,7 +205,7 @@ def chart(request, file_id: int):
     )
 
     # Convert to JSON for template
-    plot_json = json.dumps(fig.to_dict())
+    plot_json = fig.to_json()
 
     # Calculate statistics
     if temperatures:
