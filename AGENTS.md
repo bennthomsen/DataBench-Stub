@@ -31,6 +31,16 @@ import requests
 
 ```
 
+## Database migrations
+
+ALWAYS use
+
+```
+python manage.py migrate
+```
+
+to create migrations
+
 ## Code Formatting and Linting
 
 Before committing Python code, run the following tools and ensure they pass:
@@ -58,3 +68,4 @@ Before committing Python code, run the following tools and ensure they pass:
    ```
 
    Prefer correct type annotations (`Optional`, union types, `cast()`, type guards) over suppression comments. Only use `# type: ignore[error-code]` when proper typing is impossible or disproportionately expensive — e.g., Django dynamic attributes, incomplete third-party stubs. Always include the specific error code and a brief reason.
+
