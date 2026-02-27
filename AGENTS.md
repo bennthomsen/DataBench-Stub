@@ -31,6 +31,15 @@ import requests
 
 ```
 
+## Making a new app
+
+When asked to make a new app create the initail framework using
+
+```
+# Create a new app named "blog"
+python manage.py startapp blog
+```
+
 ## Database migrations
 
 ALWAYS use
