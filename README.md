@@ -22,7 +22,23 @@ DataBench-Stub is a lightweight Django-based web application framework for data 
 ### Prerequisites
 
 - Python 3.12 or higher
-- [uv](https://github.com/astral-sh/uv) (recommended) or pip
+- uv (see [Installing uv](#installing-uv) below)
+
+### Installing uv
+
+uv is a fast Python package and project manager. Install it using one of the methods described in the [official installation guide](https://docs.astral.sh/uv/getting-started/installation/#installation-methods).
+
+**Quick install options:**
+
+Windows (PowerShell):
+```powershell
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
+```
+
+Linux/macOS:
+```bash
+curl -LsSf https://astral.sh/uv/install.sh | sh
+```
 
 ### Installation
 
@@ -32,24 +48,15 @@ DataBench-Stub is a lightweight Django-based web application framework for data 
    ```
 
 2. **Create a virtual environment and install dependencies:**
-
-   Using uv (recommended):
    ```bash
-   uv venv
-   uv pip install -e .
+   uv sync
    ```
-
-   Or using pip:
-   ```bash
-   python -m venv .venv
-   .venv\Scripts\activate  # Windows
-   # source .venv/bin/activate  # Linux/Mac
-   pip install -e .
-   ```
+   This creates a `.venv` directory and installs all dependencies in editable mode.
 
 3. **Run database migrations:**
    ```bash
-   .venv\Scripts\activate
+   .venv\Scripts\activate  # Windows
+   # source .venv/bin/activate  # Linux/Mac
    python manage.py migrate
    ```
 
