@@ -33,7 +33,7 @@ import requests
 
 ## Making a new app
 
-When asked to make a new app create the initail framework using
+When asked to make a new app create the initial framework using
 
 ```
 # Create a new app named "blog"
